@@ -1,0 +1,2867 @@
+[
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akkuş Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akkuş Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akkuş Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akkuş Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Salman İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Salman Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Kızılelma Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Kızılelma İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akpınar Şehit Fatih Güney Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akkuş Borsa İstanbul Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Damyeri Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Damyeri İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akkuş Akpınar Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Çayıralan-Yazıkıyısı Şehit Kemal Bide Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Yeşilgüneycik Şehit Erol Kırtıl İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "100. Yıl Kurtboğaz Mustafa Efiloğlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Salman Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Kargı Ferhat Akbulat Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Kargı Ferhat Akbulat İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Çayıralan-Yazıkıyısı Şehit Ali Köse İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Ömer Çam İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Akkuş Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AKKUŞ",
+        "ad": "Ahmet Cürebal Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "19 Eylül Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Yalçın Çelebi Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "75. Yıl Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Adil Karlıbel Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Büyükşehir Belediyesi Ordu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Cumhuriyet Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Faruk Furtun Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Haki Yener İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Millî İrade Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "İsmetpaşa İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Karacaömer Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Karacaömer İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Zeki İnan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Karşıyaka Vilayetler Hizmet Birliği Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Vilayetler Hizmet Birliği Adil Karlıbel İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Nuriye Halit Çebi Özel Eğitim Meslek Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Penbe-İzzet Şahin Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Türkiye Odalar ve Borsalar Birliği Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Başöğretmen Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Dr. M. Hilmi Güler Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Fen Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Boztepe Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Ersin Bacaksız İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "15 Temmuz İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Fatma Mağden Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Fatma Mağden İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Durugöl Şehit Burçin Damcı Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Durugöl Şehit Bayram Gümüş İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Kökenli Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Kökenli İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Ersin Bacaksız Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Bayadı Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Cüneyt Akkuş Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Hamdullah Suphi Tanrıöver Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Doğan Gökbulut İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınfındık İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Eyüplü Şehit Sezar Aydın Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Gerce Şehit Bülent Demirkaya İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Başöğretmen İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Başöğretmen Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Yeşilyurt Ahmet Karlıbel Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Yeşilyurt Ahmet Karlıbel İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Hicabi Çelebi Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şirinevler İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Merkez Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Ali Şahin Odabaşı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şahincili İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Okan Melikoğlu Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Kayabaşı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Eğitimciler Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Zuver Kaya Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Kayabaşı Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Eyüplü Şehit Sezar Aydın İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "75. Yıl Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Karşıyaka Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Vakıfbank İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Oğuzhan Arduç Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Akyazı Çamsan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Güzelordu Meliha-Lütfü Türkmen İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Fatih Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Öceli Hüsamettin Çabuk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Öceli Hüsamettin Çabuk ilkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Ümit İnce Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Mehmet Akif İnan Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Mehmet Akif İnan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Fatih İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Saraycık İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Saraycık Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "ADİL KARLIBEL ÖZEL EĞİTİM İLKOKULU"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "ADİL KARLIBEL ÖZEL EĞİTİM ORTAOKULU"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Yağızlı Şehit Zafer Gülseren İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Yağızlı Şehit Zafer Gülseren Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Bayadı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Yunus Emre İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "MİMAR OKTAY UĞUREL ÖZEL EĞİTİM UYGULAMA MERKEZİ I. KADEME"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "MİMAR OKTAY UĞUREL ÖZEL EĞİTİM UYGULAMA MERKEZİ II. KADEME"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Mimar Oktay Uğurel Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Gökömer İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Akyazı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Eskipazar Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Sefa Kabakkaya Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "ESKİPAZAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Altınordu Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Yüksel-Rüstem Öztürk Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Eskipazar İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Üniversitesi Düriye Çetinceviz Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "YİKOB Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Muhsin Yazıcıoğlu Spor Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Dr. M. Hilmi Güler Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Nuriye Halit Çebi Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Ordu Olgunlaşma Enstitüsü"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ALTINORDU",
+        "ad": "Şehit Okan Melikoğlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Armutlu 1 Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı Fen Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı Mehmet Akif Ersoy Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Çakırlı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Merkez İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Pelitözü Mitat Dursun İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Zaferimilli Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Toygar Ertuğrul Gazi Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Ortaköy İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Havluiçi Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Hacıosmanlı Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Sefalık Şehit Sadık Kütük Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Alacalar Şehit Yener Şahin İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Zaferimilli İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Armutlu 1 İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Havluiçi İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Çakırlı Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Hacıosmanlı Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Hacıosmanlı Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Ortaköy Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "AYBASTI",
+        "ad": "Aybastı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "BÜYÜKŞEHİR",
+        "ad": "Ordu Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "100.Yıl Şehit Mustafa Nehir Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Çamaş Türk Telekom Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Edirli Kocaman İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Çamaş Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Şehit Yıldıray Uygun İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Şehit Erda Uygun Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Çamaş Şehit Şener Karadere İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Şehit Erda Uygun İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Edirli Kocaman Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAMAŞ",
+        "ad": "Çamaş Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Çatalpınar Şehit Onur Tiken Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Çatalpınar Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Şehit Salim Güneş İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Göller Şehit Hasan Özdenbaşı Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Göller Şehit Hasan Özdenbaşı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Keçili Şehit Volkan Demirci İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Keçili Şehit Volkan Demirci Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Ortaköy Şehit Yüksel Çağlar Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Ortaköy İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Karahamza Şehit Ahmet Karadağ Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Karahamza Şehit Ahmet Karadağ İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Kıran İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Hacı Ali Eriş Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Ayşe Tenteoğlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Sayacatürk İskenli İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Çatalpınar Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Çatalpınar Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Çatalpınar Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Çatalpınar Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇATALPINAR",
+        "ad": "Çatalpınar Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Çaybaşı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Çaybaşı Şehit Çetin Ak Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Çaybaşı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez Aşıklı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez Çakıllı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Şehit İslam Çubuk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez Taşkesiği Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez Taşkesiği İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Şehit İslam Çubuk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Göksu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Göksu Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Köklük İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Köklük Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "İlküvez İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "ÖĞRETMENEVİ VE AKŞAM SANAT OKULU"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÇAYBAŞI",
+        "ad": "Çaybaşı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Lokman Hekim Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Bolaman Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Fen Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Gazi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit İbrahim Kılıç Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Hatice-Bahaettin Şener İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "İslamdağ İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Kulak Çetirtepe Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Necip Fazıl Kısakürek Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Ömer Hüseyin Çağatay Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Sakarya Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Yalıköy İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Yalıköy Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Dumlupınar İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Meşebükü Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Ali Rıza Demircan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Sami Yücel Özel Eğitim Uygulama Merkezi I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit Sercan Öklük İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Büyük Ata Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Kulak Çetirtepe İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit Ümit Karamustafa Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "İslamdağ Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "TOKİ İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "TOKİ Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Bolaman Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Hasan Yahşi İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Hasan Yahşi Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Geyikçeli Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Geyikçeli İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Sami Yücel Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Demirci Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Demirci İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Aslancami İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Aslancami Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Meşebükü İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Bolaman İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Hatipli İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Hatipli Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Ilıca Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Ilıca İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Özel Eğitim Uygulama Merkezi II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Sami Yücel Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit Kerem Çalışkancı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit Şükür Bağdatlı Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Hacer Yücel Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Cahit Zarifoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit Birol Yavuz İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "İslamdağ İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Mehmet Zahit Kotku İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Eczacı İlhan Hazinedar Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit Zafer Özdeniz İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Huriye-Hacı Ahmet İbiş Kızılay Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Ahmet Sırımsı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Hacı Zekiye Karamolla Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Bolaman Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Kurtuluş Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Şehit Ümit Kesti Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Dolunay Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "FATSA",
+        "ad": "Fatsa Melih Koç Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Aydoğan Turan Kaya İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Gölköy Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Gölmak Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Şehit Yaşar Biçer Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Güzelyurt Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Gölköy Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Şehit Bilgin Çelenk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Şehit Necip Karameşe Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Hürriyet İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Gölköy Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Alanyurt İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Hürriyet Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Güzelyurt Şehit Halis Doğan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "TOKİ Şehit Hikmet Mert İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "TOKİ Şehit Hikmet Mert Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Emirler Şehit Nihat Şahin İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Alanyurt Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Süleymaniye İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Süleymaniye Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Aydoğan Turan Kaya Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Emirler Şehit Bilal Çıtak Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Gölköy Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Gölköy Fen Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Güzelyurt Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Gölköy Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "TOKİ Şehit Hikmet Mert Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÖLKÖY",
+        "ad": "Hürriyet Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Turnasuyu Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Gülyalı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Turnasuyu Kız Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Merkez Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Merkez İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Ayşe Şahin Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Turnasuyu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜLYALI",
+        "ad": "Gülyalı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Gürgentepe Şehit Ahmet Yaşar Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Gürgentepe Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Işıktepe Şehit Hüseyin Özdamar Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Işıktepe Şehit Ayhan Akkuş Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Şirinköy Şehit Mevlüt Göl Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Muratcık Kadıoğlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Muratçık Şehit Resul Sekmen Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Şehit Fatih Kaplan Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Işıktepe İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Şirinköy Şehit Sezgin Karaca İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Bahtiyarlar Şehit Birol Çelik Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Gürgentepe Şehit Erdi Demirer Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Gürgentepe Şehit Ersin Şanlı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Bahtiyarlar Şehit Birol Çelik İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "GÜRGENTEPE",
+        "ad": "Gürgentepe Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Devecik İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "İkizce Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Ordu Büyükşehir Belediyesi İkizce Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Kaynartaş İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Kaynartaş Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Selahattin Tiryaki İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Şenbolluk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Yoğunoluk Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "İkizce Şehit Hüseyin Akar Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Şenbolluk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Selahattin Tiryaki Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "İkizce İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Yoğunoluk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Devecik Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "İkizce Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Yoğunoluk Şehit Cezmi Sekmen İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "Yoğunoluk Şehit Enver Sekmen İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "İkizce Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "İKİZCE",
+        "ad": "İkizce Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABADÜZ",
+        "ad": "Yokuşdibi Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABADÜZ",
+        "ad": "Merkez İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABADÜZ",
+        "ad": "Merkez Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABADÜZ",
+        "ad": "Kabadüz Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABADÜZ",
+        "ad": "Kabadüz Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABADÜZ",
+        "ad": "Yokuşdibi İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABADÜZ",
+        "ad": "Kabadüz Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Alankent Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Kabataş Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Kabataş Fatih Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Kabataş Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Şehit Salih Keskin İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Alankent Şehit Murat Yazlak Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Osman Özyurt Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Şehit Ünal Aktaş İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Şehit Salih Keskin Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Şehit Harun Maytalman Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Şehit Harun Maytalman İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Senai Yediyıldız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "İhsan Yaşar Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Alankent İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KABATAŞ",
+        "ad": "Kabataş Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çayırkent Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çayırkent Şehit Nevzat Çatık İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çayırkent Şehit Nevzat Çatık Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "İbn-i Sina Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Tepe Abaz İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Tepealan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Tepealan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Yenipınar Prof. Dr. Mahmut Esad Coşan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Yenipınar Prof. Dr. Mahmut Esad Coşan Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çayırkent Aşağıoba İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Ögretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çiftlik Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çiftlik İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çamlı 75. Yıl Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çamlı 75. Yıl İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Tepealan Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Terzili İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Tepealan Kırıkbozu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Beypınarı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çiftlik Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Sarıalıç İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Şehit Emrah Sapa İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Belalan Yolağzı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Tepealan Emir Yakup İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Çayırkent Canik İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KORGAN",
+        "ad": "Korgan Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Aşağıdamlalı Şehit Zekeriya Yatı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Divantürk Şehit İrfan Ünceli İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Divantürk Şehit İrfan Ünceli Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Erikceli Şehit Ali Uysal İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Erikceli Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Güneycik İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Kumru Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Kumru Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Kumru Şehit Zekeriya Çalışıcı Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Kumru Erçallar Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Konaklı Boeing İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Eskiçokdeğirmen İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Ergentürk Şehit Adem Kamur Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Yunus Emre Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Şehit Yüksel Batır İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Şehit Sabri Eryeler Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Yunus Emre Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Yunus Emre Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Şehit Neşe Eryetim İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Kumru Ergentürk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Yukarıdamlalı Şehit Adem Öğlü İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Kumru Konaklı Boeing İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Kumru Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Şehit Yüksel Batır Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Aşağıdamlalı Şehit Zekeriya Yatı Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "KUMRU",
+        "ad": "Atatürk Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Mesudiye Borsa İstanbul Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Mesudiye Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Topçam Şehit Canip Demircan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Topçam Şehit Murat Öndin Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Mesudiye İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Mesudiye Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Mesudiye Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "MESUDİYE",
+        "ad": "Mesudiye Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Ordu Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "75.Yıl Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Perşembe Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "İsmail Dede İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Medreseönü İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Zehra Şelale Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Sakin Şehir Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Perşembe Şehit Ceyhun Arslantürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Saray İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Medreseönü Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Çaka-Çaytepe Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Beyli Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Beyli İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Kırlı İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Perşembe Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Kırlı Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Perşembe Adalet Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "PERŞEMBE",
+        "ad": "Perşembe Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Aydınlar Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ordu Ulubey Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ulubey Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ulubey Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ulubey Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ulubey Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ulubey Şehit Erkut Tufan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Şehit Mitat Eren İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Şehit Mitat Eren Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Aydınlar İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ulubey Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ULUBEY",
+        "ad": "Ulubey Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Adnan Menderes Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Arif Nihat Asya Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Mehmet Refik Güven Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Erenyurt İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fatih Meydan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fatih Meydan Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Mürüvvet Vidinli Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Kaledere İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Fen Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Hüseyin Başaran İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit İsmail Ustaoğlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit İsmail Ustaoğlu Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Çakırtepe Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ticaret Borsası Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Mustafa Rakım Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Puset Polvan Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Tekkiraz Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Yenikent Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Yeşilkent Şehit Mustafa Güler İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Yunus Emre İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fevzi Çakmak Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Anafarta İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Mehmet Necati Vidinli Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Taner Kart Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Fatih Efiloğlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Prof.Dr.Necmettin Polvan İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Nejdet Aydoğdu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Yeşilkent Şehit Mustafa Güler Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Meçhul Asker Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "İnkur İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "İnkur Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Yenikent İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Toki Ömer Çam İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Tekkiraz Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Tekkiraz İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Toki Ömer Çam Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Yaşar Gazioğlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "İnönü İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Cemal Mutlu İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Bayramca Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Yusuf Bahri Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fehmi Cerrahoğlu Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ticaret Borsası Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Gölevi Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Tekkiraz İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Fevzi Çakmak İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Pelitliyatak İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Atatürk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Harun Ateş Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Prof. Dr. Necmettin Polvan Ortaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Gökhan Demir İlkokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Eren Bülbül Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Meçhul Asker Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Şehit Fatih Efiloğlu Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Toki Ömer Çam Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "İnkur Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Ünye Adalet Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Gölevi Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ORDU",
+        "ilçe": "ÜNYE",
+        "ad": "Saraçlı Anaokulu"
+    }
+]

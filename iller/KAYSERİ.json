@@ -1,0 +1,4902 @@
+[
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Şehit Fikret Tunç Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Akkışla Şehit Nevzat Akyol Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Kululu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Kululu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Ortaköy Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Ortaköy İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Şehit Ahmet Sungur İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Derviş Çakırtekin Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "AKKIŞLA",
+        "ad": "Derviş Çakırtekin İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Cengiz Sabuncu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Şehit Onur Karasungur Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Naci Baydemir Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Jan. Onb. Abdi Altemel Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Piyade Teğmen Bekir Öztürk Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Yeni Süksün Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Yeni Süksün İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Ekinciler İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Ekinciler Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Akmescit Garip Altemel Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Köprübaşı Yakup Atila İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Köprübaşı Yakup Atila Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Akmescit Garip Altemel İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Namık Kemal Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Koyunabdal Orhan Kaplan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Jandarma Er Zafer Akkaş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Karakaya Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Karakaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Jandarma Er Zafer Akkaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Topsöğüt Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Yünören Şh.Jnd.Onb.Ramazan Koca Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Yünören Şehit Jandarma Onbaşı Ramazan Koca İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Musa Yüce İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Musa Yüce Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Güllüce İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Velioğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Karadayı Muzaffer Oflaz Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Karadayı Muzaffer Oflaz İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Cennet Yiğit Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Sıvgın İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Hamidiye Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Mehmet Alim Çınar Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Sultanhanı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Topsöğüt İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "SÜMER İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Sümer Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Menduh Karaman İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Şehit Muzaffer Can Ersoy Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "PIRAHMET İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Sabancı Öğretmenevi ve Akşam Sanat okulu Müdürlüğü"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Koyunabdal Orhan Kaplan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Adalet Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Adalet Meslekî Eğitim Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "BÜNYAN",
+        "ad": "Bünyan Adalet Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Ayhan Yıldırım Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Ayvazhacı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Bakırdağı Süleyman İlhan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Cemal Nevzer Ercis İşitme Engelliler Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Ahmed İslamoğlu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Şehit Müsellim Ünal Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Muammer Kocatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Borsa İstanbul Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Borsa İstanbul Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Necmiye ve Mustafa Maslak Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Epçe Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Hacı Kemal Kaman İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Hacı Kemal Kaman Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Ayşe Yahya Fatma Kocatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Selçuk Maşlak Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Soysallı Şükrü Somuncu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Soysallı Şükrü Somuncu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Şehit Jandarma Er Yaşar Pusatlıoğlu Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Çaylıca Şehit Jandarma Er Zeki Özbek Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Ayvazhacı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Dudu-Şahin Tokluoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Sindelhöyük Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Çaylıca Şehit Jandarma Er Zeki Özbek İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Sarıca İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Cesarettin Kocatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Şehit Üsteğmen Ömer Mavi Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Saray Halı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Köseler İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Köseler Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Karacaviran İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Çomaklı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Kabaklı Hacı Ömer Soytürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "75.Yıl Saray Halı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Kabaklı Hacı Ömer Soytürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Turan Köylüoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Seyrani İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Sindelhöyük Şehit Mücahit Sınırtepe İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Sindelhöyük Yenice İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Süleyman Tıraş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Öksüt İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Ayşepınar Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Gümüşören İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Gümüşören Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Nevzer Ercis Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Şahmelik İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Çomaklı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Sindelhöyük Fatih İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Şahmelik Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Yeniköy İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "İncesu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "İncesu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "90.Yıl Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Çayırözü İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Çayırözü Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Kızık İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Ayşepınar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Şıhlı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Muammer Kocatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Yeniköy Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Şehit Topçu Üsteğmen Hasan Şahan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Muammer Bakkaloğlu Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "HÜSEYİNLİ İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "KULPAK İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Merkez Selçuk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Şehit Osman Özsoy Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Şehit Osman Özsoy İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "MERKEZ SELÇUK İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "BÜYÜK KÜNYE İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Çataloluk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "YAYLACIK İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Zile İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Salih Onaran İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Şehit Taha Uluçay Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Nevzer Erciş İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Müftü Numan Cebeci İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Fahri Mor Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Mustafa Asım Köksal Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Şıhlı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Sarıkaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Sindelhöyük Fatih Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Havadan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Epçe İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Saraycık İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Cemal Nevzer Ercis  İşitme Engelliler İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Bakırdağı Süleyman İlhan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Milli Birlik İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Necmiye ve Mustafa Maşlak Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Borsa İstanbul İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Emekli Astsubay Arif Övüç Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Necmiye ve Mustafa Maşlak Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Mehmet Akif Ersoy Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "DEVELİ",
+        "ad": "Develi Sevim Köylüoğlu Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Büyük Toraman Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Büyük Toraman Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Felahiye Şehit Bekir Yeşilyurt Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Kanuni Süleyman Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Merkez Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Büyük Toraman Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Felahiye Şehit Bekir Erciyes Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "FELAHİYE",
+        "ad": "Felahiye Münüş Faik Kesici Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Baki-Ayşe Simitçioğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Hasçelik Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Hacılar Rasim Çetinkaya Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Feyyaz Mercan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Demokrasi Şehitleri İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Demokrasi Şehitleri Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Yunus Çepken İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Gürdoğanlar Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Saffet Arslan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Tevfik İleri İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Karpuzsekisi Mustafa Tatar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Karpuzsekisi Mustafa Tatar Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Tevfik İleri Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Şaşoğlu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "HACILAR",
+        "ad": "Ali Atay Şaşoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "İncesu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "İncesu Bekir Yazgan-Yaşar Çilsal Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "İncesu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Kızılören Parlaklar Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Mustafa Özkan Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Saraycık Şehit Mustafa Yılmaz İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Saraycık Şehit Mustafa Yılmaz Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Ayfer İsmail Şahbaz Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Vali Sabahattin Çakmakoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Ertuğrul Gazi Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Süksün Şehit Ali Kıvanç Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Süksün Şehit Ali Kıvanç İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Şehit Yusuf Özmen Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Şehit Yusuf Özmen İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Tahirini Duran-Dudu Gümüş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Üçkuyu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Tahirini Duran-Dudu Gümüş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Örenşehir Çinkom İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Namık Kemal Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Örenşehir Çinkom Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Kızılören Osman Kulaç İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Şeyhşaban İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Karamustafapaşa İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Subaşı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Kocaoğlan Çardak İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Hamurcu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Garipçe İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Fatma-Ömer Lütfi Arıtan Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Osmangazi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "OSMANGAZİ ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Yavuz Sultan Selim Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Fatih Sultan Mehmet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Yavuz Sultan Selim İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "İncesu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "KIZILÖREN PARLAKLAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Namık Kemal Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Öğretmen Umran Şefik İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "İNCESU",
+        "ad": "Öğretmen Umran Şefik Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Argıncık Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Atatürk Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Mustafa Kemal Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ayşe Baldöktü Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Barbaros Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Boztepe Şehit Furkan Hamamcı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Buğdaylı Şehit Ömer Delibaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Buğdaylı Şehit Ömer Delibaş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Cemal Bozkurt Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Cevdet Sunay İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Elagöz Şehit Fazlı Altuntaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Erkilet General Emir Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Fatma-Muhittin Tatar Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Feridun Cıngıllı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Güventürk Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Hacı Ahmet Arısoy Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Hacı Mustafa Postaağası Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Himmetdede Şehit Kemal Ergen Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kadir Has Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kayseri Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kayseri Olgunlaşma Enstitüsü"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan 75.Yıl Cumhuriyet Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Ahmet Eren Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Furkan Doğan Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Özel Eğitim Meslek Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Alçı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Ömer Halisdemir Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Nuh Mehmet Küçükçalık Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Oymaağaç Şehit Ünal Kayhan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sadiye Nuhoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sami Yangın Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sancaktepe Şehit Fahrettin Livçalkan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sancaktepe Şehit Fahrettin Livçalkan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Servet Akaydın Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit İstihkam Er Suat Özgan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit İstihkam Er Suat Özgan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Piyade Astsubay Üstçavuş Mahmut Öner Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şıh Mehmet Gazioğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Zekiye Has İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Osman Ulubaş Kayseri Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Avukat Ahmet Ulucan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Akin İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Adviye-Ahmet Eminoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sabit Bozahmetoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Adviye-Ahmet Eminoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Gazipaşa İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mahzemin İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ahmet Paşa Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Koçyiğit Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Osman Düşüngel Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Behice Yazgan Kız Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Cevdet Sunay Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Himmetdede Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Alsancak Şehit Osman Çelik İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Zübeyde Hanım İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Himmetdede Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Sepici 60.Yıl Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "17 Aralık Şehitleri İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Abdül Halim Bezircilioğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Beyazşehir Borsa İstanbul İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Üsteğmen Ümit Bekem İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sümer Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Argıncık Şehit Kadir Çelebi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mithatpaşa İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Osman Düşüngel Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ahmet Baldöktü İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Alpaslan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Akçatepe İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "İnönü İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Üsteğmen Mustafa Şimşek Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Fevzi Çakmak Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Osman Zeki Yücesan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Erkilet Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yemliha Piyade Uzman Çavuş Mürsel Gürlek İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yazır İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Hikmet Madazlı Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Huriye Eren Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Bekir Çakır Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sabahat Hıfzı Gözübüyük İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Gazi Osman Paşa Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Gazi Osman Paşa İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Refika Küçükçalık Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Üsteğmen Mustafa Şimşek İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Dadaloğlu Şehit Osman Aydın Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Dadaloğlu Şehit Osman Aydın İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Orhan Gazi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Koçyiğit İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sümer Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Güneşli Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Güneşli Şehit İlhan Odabaşı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Emel Tarman Görme Engelliler  İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Cengiz Topel İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Salih Avgın Paşa Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Gültekin Gürkan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Üsteğmen Mustafa Şimşek Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yemliha Şehit Yunus Uygun Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Erkilet Ali Osman Özel İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Ahmet Erdem Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ahi Evran Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Burhanettin-Hanım Karamete İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sümer Osman Göksu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "75. Yıl Rezan Has İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ahmet Paşa İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Saraycık Hacı Mehmet Soyışık İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ergenekon Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şeker İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ergenekon İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mustafa Kızıklı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Gözüakçalar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Düver İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ahmet Eskiyapan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Erkilet Süleyman Tarman İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Hacı Mehmet Soyışık İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Karakimse İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Zekiye Has Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Gazioğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Erdal Çam İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yeni Yuvalı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yemliha Sami Yangın İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yavuz Selim Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yavuz Selim İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Arif Molu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Avukat Ahmet Ulucan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Osman Zeki Yücesan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kayseri Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Tarman Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet İlgü İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "EMEL TARMAN GÖRME ENGELLİLER ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Gevher Nesibe Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Nuh Mehmet Yamaner Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Yemliha Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şerife Bacı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "ŞEHİT SUAT SARI ANAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Alsancak Şehit Osman Çelik Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Tarman İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Eskiömerler İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sabit Bozahmetoğlu Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Servet Akaydın İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "SALUR İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Taceddin Veli Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "NURETTİN ÖZTÜRK İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Oymaağaç Şehit Ünal Kayhan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "İnönü Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Huriye Eren İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "GAZİOĞLU İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Hacı Ömer-Ayten Tepecik İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mustafa Germirli İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yemliha Şehit Yunus Uygun İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Boztepe Şehit Furkan Hamamcı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Cengiz Topel İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "MUSTAFA ÖNER İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Abdül Halim Bezircilioğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Yiğitcan Çiga Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "ŞEHİT YİĞİTCAN ÇİGA ÖZEL EĞİTİM UYGULAMA MERKEZİ II. KADEME"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "HASBEKLİ HAFIZ MÜMİN AKAN ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Fevziye Memduh Güpgüpoğlu Spor Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "MEHMET AKİF İNAN ANADOLU LİSESİ"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "CEVDET SUNAY İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Alsancak Şehit Osman Çelik İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "ERKİLET GENERAL EMİR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "MEHMET AKİF ERSOY İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "AHMETPAŞA İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Dadaloğlu Şehit Osman Aydın İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Boztepe Şehit Furkan Hamamcı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "HACI ÖMER-AYTEN TEPECİK İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "MEHMET TARMAN İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Buğdaylı Şehit Ömer Delibaş İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Mehmet Erdoğan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Hava Pilot Üsteğmen Vedat Evliya Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Mehmet Kökkaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Mehmet Erdoğan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "YUNUS EMRE İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Mehmet Kökkaya Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "General Emir Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "GÜNEŞLİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Refika Küçükçalık İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Birol Mutlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Avukat Ahmet Ulucan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sancaktepe İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Birol Mutlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Hakan Bayram Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Uluslararası Kayseri İlahiyat Vakfı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Birol Mutlu Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mahzemin İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Haldun Ateş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Haldun Ateş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Ali Bakkaloğlu Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Osman Ulubaş Sümer Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Osman Ulubaş Sümer Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Sepici 60.Yıl Cumhuriyet Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Mehmet Tarman Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Beyazşehir Borsa İstanbul Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ahmet Paşa Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Hacı Ömer-Ayten Tepecik Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Mehmet Erdoğan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Ergenekon Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Yavuz Selim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Erkilet Mehmet Tarman Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sancaktepe Şehit Fahrettin Livçalkan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kadriye-Refik Şapcı Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Kocasinan Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Şehit Yiğitcan Çiga Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "KOCASİNAN",
+        "ad": "Sıdıka İncetan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ahmet Baldöktü Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ahmet Hilmi Güçlü Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ali Şahin Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Aydınlıkevler Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Belsin Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Birlik Mensucat İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Çetin Şen Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Demir Karamancı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Emine Akçakaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ferruha Büyükgöncü Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İldem Şehit Abuzer Doğan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Nuh Kürşat Temizyürek Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Halil İlik Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Şehit Hüseyin Danacı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Ertuğrul Taciroğulları Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Tarık Koçoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hürriyet Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Selçuklu Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kadir Has Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Erciyes Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kayseri Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kayseri Kilim Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kayseri Kadı Burhaneddin Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Merkez Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Keykubat Şehit Ömer Aktaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kıranardı Şehit Ramazan Kırboğa İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Malazgirt İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mehmet Akif Ersoy Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mehmet Kemal Dedeman Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Necmettin Keleş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Şehit Ayşegül Pürnek Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kayseri Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Mustafa Eminoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Milli Egemenlik İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Eraslan Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Erciyes İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Müncübe Cıngıllıoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Müşerref-Hasan Eser Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Nermin Eminoğlu Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Nuri Has Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Pembe Başyazıcıoğlu Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şeker Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Sema Yazar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Sema Yazar Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şaban Fazlıoğlu Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Jandarma Komando Er Hacı Aydıncı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Turan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Türkiye Tekstil Sanayi İşverenleri Sendikası Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Vilayetler Hizmet Birliği Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yahya Kemal Beyatlı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Zenger-Güç Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Kemal Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Saim Çelik Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Erbosan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Kemal İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fatoş Büyükkuşoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yunus Büyükkuşoğlu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mehmet Miraboğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Burhan Dinçbal Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mehmet Soysaraç Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hoca Yusuf Erdem Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ali Rıza Özderici Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Besime Özderici Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hikmet Yedekçioğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Ulubaş Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Celal Bayar Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hacı Osman Güldüoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Belediyesi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mehmet-Şehime Germirli İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İbrahim Yüzbaşıoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Doktor Ulucan Dayan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hacı Hüseyin Akoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fatin Rüştü Zorlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ahmet Kirazgiller İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Arif Eminoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "80.Yıl İşitme Engelliler Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Esentepe Mumcular İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Adnan Menderes İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Vali Saffet Arıkan Bedük Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Habibe Taş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yıldırım Beyazıt İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Seyide Daloğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Seyyid Burhaneddin Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Ulubaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Özkar Özel Eğitim Uygulama Merkezi II. Kademe"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Özkar Özel Eğitim Uygulama Merkezi I. Kademe"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Hilmi Kalpaklıoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Necdet Taş Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Necip Fazıl Kısakürek İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Demir Karamancı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Demir Karamancı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yılmaz-İsmet Akansu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Nuh Mehmet Baldöktü Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Besime Özderici İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Turgut Özal İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Yazar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "75.Yıl Borsa İstanbul İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "75.Yıl Borsa İstanbul Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Ulubaş Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mehmet Bukem Somtaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ayşe Ahmet İnci İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İbrahim Yüzbaşıoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fatin Rüştü Zorlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hasan Nuriye Ünlen İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Gürpınar Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Gürpınar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Aziz Özkan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hisarcık Fevzi Çakmak Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Özgür İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Özdal İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ahmet Soykan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hikmet Kozan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Sema Yazar Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yalçın Delikan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yalçın Delikan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Murat Erdem Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "80.Yıl İşitme Engelliler İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kadir- Rezan Has İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Tatar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hayriye Dabanoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İzzet Öksüzkaya Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hacı Mustafa Gazioğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mimar Sinan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hasan Nuriye Ünlen Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yeşilyurt Mustafa Tümer İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ayşe Ahmet İnci Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mimarsinan Şehit Mustafa Eyyüp Darendelioğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Seyit Mehmet Kayıhan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Barbaros Şehit Nuri Yazanel İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kıranardı Şehit Zekeriya Altunok Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ahmet Soykan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Burhan Dinçbal İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Piyade Astsubay Serkan Ciddioğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Şaban Ergin Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ülfet Kızıklı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yıldırım Beyazıt Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ağırnas Osman Yücel  Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ağırnas Osman Yücel İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Battalgazi Şehit Selim Şener Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "75.Yıl Aliye Çapar Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Anbar Şehit Yasin İke İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "80.Yıl Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ambar Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Keykubat Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fevziye Mollaoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Bülent Altop İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Kavuncu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Yeşilyurt Mustafa Tümer Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İldem Borsa İstanbul Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mimar Sinan Kasabası Sinan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Nazife-Talat Orhan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mehmet Bukem Somtaş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Jandarma Er Ferhat Doğan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fevziye Mollaoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şükrü Başyazıcıoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Anbar Şehit Yasin İke Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Muzaffer Bezircilioğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şaban Fazlıoğlu Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Erhan-Ahmet İnci Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kayseri Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "TOKİ Şehit Nazım Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "TOKİ ŞEHİT NAZIM İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Turan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İstiklal Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Piyade Astsubay Serkan Ciddioğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "GEVHER NESİBE ANAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Emekli Öğretmen Ramazan Büyükkılıç Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kadir- Rezan Has Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İbrahim Tennuri Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "MELİKGAZİ BELEDİYESİ GÜLTEPE ANAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Esentepe Mumcular Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Malazgirt Şehit Murat Boyraz Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit İsmail Uygun Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Medine İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "ŞEHİT HACI SAİT SÖNMEZ ANAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Erciyes Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Belsin Melikgazi Belediyesi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "ABDÜLHAMİT HAN İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Somuncubaba Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Belediyesi Tınaztepe Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "HUNAT HATUN İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "AĞIRNAS OSMAN YÜCEL İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Orhan Tahtasakal İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Altınoluk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "AVUKAT AHMET ULUCAN KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Özkoyuncu Fatımatüzzehra İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hacı Hakkı-Sadıka İlgü Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fatih Sultan Mehmet Han İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "ŞEHİT MEHMET POLAT İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hoca Ahmet Yesevi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "ŞEHİT BİNBAŞI TURGAY ÇELİK KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ertuğrulgazi Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "15 TEMMUZ ŞEHİTLER KIZ ANADOLU LİSESİ"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Mustafa Sezgin Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Celal Bayar Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "ŞEHİT CENNET YİĞİT İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Sultan Alparslan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "BİNBAŞI OKAN ÖNCEL ANAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mustafa Çataloğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Mehmet Muratdağı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "ŞEHİT BÜLENT DOĞAN İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Ahmet Cihan Kilci Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ağırnas Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Ali Örnek Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "OSMAN ULUBAŞ KÖŞK ANADOLU LİSESİ"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hakkı Altop İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Kemal Koçyiğit İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hasan Polatkan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Ulubaş Köşk Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Fatih Karcı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hacı Mehmet Çolakbayraktar İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Soğanlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Nurullah Pakize Narin Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Vefa Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Necmettin Bayraktar Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Necmettin Bayraktar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Gesi Şehit Mustafa Bulut Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Mihriban ve Fatma Altuntaş Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İlmiye-Ahmet Nuri Büyükkılıç İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Bahçelievler Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Burhan Sönmez İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Burhan Sönmez Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "50. Yıl Dedeman Fen ve Teknoloji Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Çetin Şen Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Murat Kantarcı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Ulubaş Melikgazi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Ulubaş Melikgazi Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Akıncılar Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hacı Ali Karamercan Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Osman Ulubaş Melikgazi Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hayriye Dabanoğlu Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İlmiye-Ahmet Nuri Büyükkılıç Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "İbrahim Kendiroğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hüseyin-Kadriye Güner Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Saniye-Şahin Yıldırım Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hüseyin-Kadriye Güner İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Kemal Koçyiğit Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Erciyes Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Doktor Ulucan Dayan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Necmettin Bayraktar Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Hacı Şükrü Baktır Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kayseri Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Ahmet Somdaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Belsin Melikgazi Belediyesi Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Ersin Öztürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Şehit Ersin Öztürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Dr. Rasime Erkan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Melikgazi Av. Mehmet Altun İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Nezaket Altun ve Halil Altun İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Nezaket Altun ve Halil Altun Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "MELİKGAZİ",
+        "ad": "Kayseri Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "ÖZVATAN",
+        "ad": "Duran Yangın Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "ÖZVATAN",
+        "ad": "Özvatan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "ÖZVATAN",
+        "ad": "Petekkaya Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "ÖZVATAN",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "ÖZVATAN",
+        "ad": "Özvatan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "ÖZVATAN",
+        "ad": "ATATÜRK İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Dedeman Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Melikgazi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pazarören Mimar Sinan Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pınarbaşı Şehit Soner Akbulut Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pınarbaşı Borsa İstanbul Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pınarbaşı Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pınarbaşı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "TOKİ Şehit Mahmut Fatih Bedir Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Aslanbeyli İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Fikri Çeliker Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Milli Eğitim Vakfı Hasan Tahsin Önalp Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Kaynar Şehit Arda Şen İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Yukarıborandere İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Aslanbeyli Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Gümüşgün Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Panlı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Şabanlı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Şehit Sezer Güneş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pınarbaşı Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Gümüşgün İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Bahçecik İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Şabanlı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Kayseri Pınarbaşı Şehit Nafiz Uluırmak Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Çördüklü İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pazarören Uygulamalı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pazarören Uygulamalı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Panlı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Karakuyu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "KARAKUYU ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Kaynar Şehit Arda Şen Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "YUKARIBORANDERE ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "YUKARI KARAGÖZ İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Çakılkaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Kayabaşı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Tözgün İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "PINARBAŞI",
+        "ad": "Pazarören Mimar Sinan Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Çiftlik Şehit Üsteğmen Nevzat Altuntaş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Sarıoğlan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Karaözü Şehit Er Mustafa Topçuoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Merkez Fatih İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Palas 75.Yıl Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Palas İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Sarıoğlan Palas Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Şehit Hacıbey Kaya Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Şehit Hava Pilot Yüzbaşı Nail Erdoğan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Tatılı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Çiftlik Şehit Ahmet Bozok Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Alamettin Şehit Er Eyüp Yabangülü İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Çiftlik Şehit Üsteğmen Nevzat Altuntaş İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Palas İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Sarıoğlan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Palas Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Karaözü Şehit Er Mustafa Topçuoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Palas Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIOĞLAN",
+        "ad": "Sarıoğlan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Şehit Osman Börklüoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Şehit Osman Börklüoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız Türk Telekom Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Yaylacı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Kuşçu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "DAMIZLIK ŞEHİT PİYADE ONBAŞI AHMET DURSUN ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Sarız Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Damızlık Şehit Piyade Onbaşı Ahmet Dursun İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "SARIZ",
+        "ad": "Kuşçu Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "75.Yıl Mühibe Germirli Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Yüksel Turgut İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Bilge Kağan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Bilge Kağan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma Kemal Timuçin Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Halide Nusret Zorlutuna Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Kani Arıkan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Kepez İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Kepez Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Talas Süleymanlı Mehmet Muammer Beluk Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Namık Kemal Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Nesrin Boysan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Rauf Denktaş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Reşadiye Yurttaşlar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Mehmet Zeynep Akköse İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Sahra-Galip Özsan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Binbaşı Mahmut Şahin İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Serdar Gümüş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Talas Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Talas Şehit Mahmut Yıldırım Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Nuri Aydın Sağır Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Toki Şehit Osman Kirik Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yüksek Mimar Selçuk Karakimseli İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yavru Vatan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yazyurdu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Osman Hilmi Kalpaklıoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Akın Sevli Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Kamber İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Kuruköprü Şehit Muzaffer Tufaner İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma Zehra Dülgeroğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Kamber Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Çömlekçi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Derviş Güneş Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Abdullah Aktan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma Aksoy İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma Aksoy Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "75.Yıl Mühibe Germirli İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Kani Arıkan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Osman Neyire Akgöz İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma-Mustafa Hasçalık İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Çömlekçi Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yazyurdu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Yüksel Turgut Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yeni Ufuklar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma-Mustafa Hasçalık Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Hidayet Aydoğan Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yeni Ufuklar Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yazılı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Hikmet-Hüseyin Erdener Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Cengiz Timurcuoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Abdullah Şaşdım Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Toki Şehit Levent Çetinkaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Mehmet Cemile Oğulcuklu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Başakpınar Şehit Onur Sönmez İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "ÇATAKDERE İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Talas Şehit Resul Erdal Aydemir Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Örencik Şehit Mehmet Alda İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "ÇEVLİK İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "KOÇCAĞIZ İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "YAMAÇLI İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "KANİ ARIKAN İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Durak-Hava Demir İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yaman Dede Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "CEMİL BABA ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "CEMİL BABA İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Ömer-Serpil Özberber Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma-Yüksel Başbuğu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Şehit Burhan Kaplan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Bahçelievler Şehit Duran Bayram İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Hanım Aydoğan Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Mevlana İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Hikmet Cıngıllı Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Emine Gönen Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Durak-Hava Demir Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Cemil Baba Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Yüksek Mimar Selçuk Karakimseli Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Toki Şehit Levent Çetinkaya Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TALAS",
+        "ad": "Fatma Mustafa Hasçalık Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "50.Yıl İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Tomarza Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Avşar Söğütlü İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Gülveren İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Tomarza Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "İmamkullu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Pusatlı Fehmi Özilhan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Sarımehmetli Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şehit Jandarma Üsteğmen Efkan Cengiz Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şehit Nazmi Kapucu Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Tomarza Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Rahime Akıncıoğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şehit Emin Urhan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Tomarza Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Sarımehmetli İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Akdere İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şiraz İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şıhbarak Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şehit Jandarma Yarbay Bekir Temel İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şehit Jandarma Yarbay Bekir Temel Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "İncili Şehit Yaşar Karakaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şıhbarak İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "İncili Şehit Yaşar Karakaya Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Toklar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Kapukaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Tahtakemer İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Yavuz Selim İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şehit Necati Kahraman Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Culha İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Rahime Akıncıoğlu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Zekiye Canpolat İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "ZEKİYE CANPOLAT ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Dadaloğlu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "PUSATLI FEHMİ ÖZİLHAN İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "TOMARZA FEN LİSESİ"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Tomarza Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "ŞEHİT İBRAHİM AKARSU İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "İMAMKULLU İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Akdere İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Cücün İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Şehit Emin Urhan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Dadaloğlu Battal Topuz Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "TOMARZA",
+        "ad": "Tomarza Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Avlağa İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Balcıçakırı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Çamlıca İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Çavdaruşağı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Çubuklu Özkoyuncu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Çubuklu Özkoyuncu Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Delialiuşağı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Derebağ İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Fatih İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyalı Şehit Adem İlkkılıç Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Hasan Hüseyin Arıkan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "İpek Hoca Hasan Türkmenoğlu Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Karaköy İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Karaköy ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Kopçu Nimet ve İsmail Bulut İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Mustafa Koyuncu Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Mustafabeyli Hacı İzzet Kurmel Kız Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Namık Kemal İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Necati Kurmel Kız Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Seydili Şehit Ferhat Kaplangiray İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Taşhan İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Taşhan Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyagazi Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyagazi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Ömer-Emine Akın Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyalı Şehit İsmail Mavitaş Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyalı Şehit Mustafa Aydın Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yeşilköy Özden Elmacı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Kirazlı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Kirazlı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Dikme İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Ulupınar İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Ali Elmacı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yeşilköy Çağlalık İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Çubukharmanı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Delialiuşağı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Durmuş İnneci Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Durmuş İnneci İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Derebağ Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Büyükçakır İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Hamdi Oral Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Mustafa Koyuncu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Hacı Hasan Efendi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyagazi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Kapuzbaşı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Balcıçakırı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyalı Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyalı Şehit Mustafa Aydın İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Büyükçakır Fatihler İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Hacı İzzet Kurmel İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Yahyalı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Mehmet Akif Ersoy Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YAHYALI",
+        "ad": "Kocahacılı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Yeşilhisar Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Yeşilhisar Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Yeşilhisar Şehit Astsubay Oğuz Akın Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Ziya Gökalp İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Mithatpaşa Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Hızır İlyas Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Kovalı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Musahacılı Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Kayadibi Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Musahacılı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Güzelöz İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Kuşçu İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Çadırkaya İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Kayadibi İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Şehit Ahmet Ziya Çaydaşı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Derbentbaşı İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Ovaçiftliği İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Kavak İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Şehit Kübra Doğanay Fen Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Şehit Mehmet Güngördü İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Yeşilhisar Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "YEŞİLOVA İLKOKULU"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Yeşilhisar Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAYSERİ",
+        "ilçe": "YEŞİLHİSAR",
+        "ad": "Salih Erten Anaokulu"
+    }
+]

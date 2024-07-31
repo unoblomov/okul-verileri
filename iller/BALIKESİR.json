@@ -1,0 +1,3912 @@
+[
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Kesirven Şehit Mehmet Eren İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Altıeylül Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Atköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "15 Temmuz Şehitler Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Mimar Sinan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ermişler Cumhuriyet Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Balıklı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Gaziosmanpaşa İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Hüma Hatun Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Mehmet Vehbi Bolak Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Kurtdereli Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Mithatpaşa Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Yakupköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Şehit Ömer Faruk Bol İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Hasan Basri Çantay İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Kesirven Şehit Mehmet Eren ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ovaköy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ovaköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Mehmet Ağa Safarov Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Plevne İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Burhan Erdayı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Pamukçu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "100. Yıl Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Zağnospaşa Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Aslıhantepecik İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Aslıhantepecik Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ayşebacı Köyü Şehit İsa Yavaş Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Kabaklı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Naim Süleymanoğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Namık Kemal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Karamanlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "General Kemal Balıkesir Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Karamanlar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Hatice Fahriye Eğinlioğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Burhan Erdayı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Şehit Jandarma Uzman Çavuş Okan Dinçer Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Konakpınar Köyü Şehit Jandarma Başçavuş Erbu Serpan Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Balıklı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Konakpınar Köyü Şehit Jandarma Başçavuş Erbu Serpan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Sevgi Özel Eğitim Uygulama Merkezi II. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Yarış Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Karamanköy Mehmetcik Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Karamanköy Mehmetcik İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Çandır Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Köylüköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Köylüköy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Halalca Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Halalca İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Köseler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Büyük Bostancı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Pamukçu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Gülser-Mehmet Bolluk Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ortamandıra Şehit Gürel Alagöz Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Macarlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ortamandıra Şehit Gürel Alagöz İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Macarlar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Sabiha Gökçen Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Yakupköy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Necatibey Eğitim Fakültesi Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Fahri Kiraz Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Organize Sanayi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Bengi Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Altıeylül Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Gökköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Çandır İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Yakup Mihriye Akdeniz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Kadriye Kemal Gürel İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ayşebacı Köyü Şehit İsa Yavaş İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Altıeylül Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Atköy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Pamukçu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Sevgi Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Nuran Oğuz Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Ahmet Karatoprak İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Şehit Uzman Çavuş Davut Armağan Keskin Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Balıkesir Atatürk Şehir Hastanesi Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Altıeylül Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "Altıeylül Fen Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "BURHAN ERDAYI ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "GENERAL KEMAL BALIKESİR ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ALTIEYLÜL",
+        "ad": "MEHMET AKİF ERSOY ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Çakmak Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Abdülvahit Sağlam İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Akçapınar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Altınova Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Nuri Zarplı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Altınova Ondört Eylül İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Rahim Usta Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Şehit Abdullah Tayyip Olçok Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Zübeyde Hanım Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Bağyüzü İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Çamoba İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Çakmak İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Kıvanç Sarlıcalı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Nuri Zarplı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Pakmaya Kenan Kaptan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "15 Eylül Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Mecit Ataklı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Akçapınar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Sakarya Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ali Çetinkaya Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Sakarya İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ali Çetinkaya İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Altınova Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Mecit Ataklı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Altınova Merkez İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Bağyüzü Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Şehit Ömer Halisdemir Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Cunda Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Necmi Komili İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Necmi Komili Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Cihan Yorgun Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ustalı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Sebahat-Cihan Şişman Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "ATATÜRK ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "AYVALIK",
+        "ad": "Ayvalık Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "Balya Atatürk Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "Balya Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "Zübeyde Hanım Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "ÇAMAVŞAR İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "ŞAMİLE ALTINTAŞ İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "ILICA ŞEHİT NECMİ GÜRGEN ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "HACIHÜSEYİN İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "ILICA ŞEHİT NECMİ GÜRGEN İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "YENİKAVAK İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "ALİDEMİRCİ İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "Balya Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "ÇAMUCU İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "KOYUNERİ ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "KOYUNERİ İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "ÇAMAVŞAR ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "DEREKÖY İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BALYA",
+        "ad": "İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Yavuz Sultan Selim Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Akşemsettin Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Haydar Cavuş Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Edincik Recep Gencer Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Enerjisa Bandırma Fen Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Hürriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Kemal Pireci Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Hafsa Sultan Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Mehmet Günenç Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Süleymanbey Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Teğmen Doğuş Uran Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "100. Yıl İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Aksakal Umut Akkaya Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Aksakal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Atatürk Özel Eğitim Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Süleymanbey İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Atatürk Özel Eğitim İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "17 Eylül İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Kemal Pireci Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Öğretmen Mustafa Boz İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Yaman Egeli Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Edincik Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Edincik İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Hasan Atlı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Bedir Karabıyık Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ticaret Borsası Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Hicri Ercili Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ticaret Borsası İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ali Fahri İşeri İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Eti Maden Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Çalışkanlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Korgeneral Enver Akoğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Esnaf Sanatkarları Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Edincik Onsekizeylül İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ticaret Odası Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ticaret Odası İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Marmara İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Erikli İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Pilot Üsteğmen Cemil Kaya Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Şehit Pilot Üsteğmen Cemil Kaya İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Yeniyenice İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ahmet Obalı Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "15 Temmuz Şehit Ramazan Konuş İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ali Öztaylan Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Bandırma Adalet Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Ahmet Baş Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "BANDIRMA BİLİM VE SANAT MERKEZİ ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Sahil Yenice İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Hicri Ercili Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Hicri Ercili Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Hicri Ercili Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "ŞEHİT ÖĞRETMEN MUSTAFA BOZ ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "CUMHURİYET ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "ŞEHİT PİLOT ÜSTEĞMEN CEMİL KAYA ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BANDIRMA",
+        "ad": "Çınarlı Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "75. Yıl Eti Holding İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Eti Maden Işıklar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Bigadiç Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Başçeşme İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Bigadiç Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Kuvayi Milliye Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Bigadiç Dörteylül Şehit Mustafa Çiğdem Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Bigadiç Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Çayüstü İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Elyapan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Emirler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Bigadiç Muzaffer Emiroğlu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Hamidiye İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "İlyaslar Şehit Niyazi Elçin İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "İskele İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Işıklar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Kargın İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Kayırlar Şehit Mustafa Ergin İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Mecidiye Şehitler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Turfullar Şehit Ahmet Kurt İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Yagcilar Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Yeşildere İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Çağış Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Çağış İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Güvemçetmi Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Akyar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Akyar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Mecidiye Şehitler Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Kozpınar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Kozpınar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "İlyaslar Şehit Niyazi Elçin Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "İskele Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Dörteylül Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Dörteylül Sıtkı Sinan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Güvemçetmi İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Yağcılar Köyü İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Eti Maden İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Bigadiç Eti Maden Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "Bigadiç Eti Maden Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "HATİCE KOÇ KIZILAY ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "ATATÜRK ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "75. YIL ETİ HOLDİNG ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "CUMHURİYET ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BİGADİÇ",
+        "ad": "SITKI SİNAN ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Emine Akel Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Ayşe Akpınar Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Bahçelievler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "ŞEHİT PİLOT ÜSTEĞMEN ERDEM MUT ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Hacı Mehmet Fevzi Köylü Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Hasan Akın Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Şehit Hasan Çoban Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Celal Toraman Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Faruk Kızıklı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Hacı Mustafa Müdüroğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Şehit İlyas Arslan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Müjde Babuşcuoğlu Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Şehit Yılmaz Kobak İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Şarköy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Mustafa Keskin İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Kuyumcu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Şehit Mustafa Serin Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Dutluca İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Bahadınlı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Bahadınlı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Börezli İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Nadir Tolun Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Şarköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Şehit Ahmet Çelik Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Pelitköy Halit Selçuk Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Pelitköy Halit Selçuk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Sekizeylül İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Karadere İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Kızıklı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Kızıklı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Ticaret Odası Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Yıldız Özsaraç Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Kuvâ-yı Milliye Fen Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Ticaret Odası Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Burhaniye Ticaret Odası Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BURHANİYE",
+        "ad": "Berna Kundakçı Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BÜYÜKŞEHİR",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "BÜYÜKŞEHİR",
+        "ad": "Karesibey Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Durabeyler Şehit Faruk Gezen İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Farabi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Mustafa Korkmaz Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Sarı Hoca Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Nene Hatun Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Neziha Bal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Gökçedağ İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Borsa İstanbul Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Sadullah Özer İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Sabahattin Göndür İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Durabeyler Şehit Faruk Gezen Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Akbaşlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Selimağa Kayaoğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Akbaşlar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Selimağa Kayaoğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Göbül İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Göbül Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Kavacık İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Kavacık Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Raif Eriş Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Hacıömerler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Delice İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Üçeylül İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Sağırlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Şabanlar Şehit Aydın Eryılmaz İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Çanakçı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Mıcırlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Dursunbey Şehit Ömer Halisdemir İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Süleler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "Hamzacık Hatun Yılmaz İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "DURSUNBEY",
+        "ad": "SADULLAH ÖZER ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Abidin Pak-Pakmaya Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Balıkesir Edremit Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Kızılkeçili İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Kızılkeçili Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Mimar Sinan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Yılmaz Akpınar Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Sarıkız Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Akçay Yunus Emre İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Öğretmenler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Akçay Zehra Baysal Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Zahit Eroğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Mevlana Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Turhan Dökmecioğlu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Saniye-Hüseyin Balya Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Karagözoğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Kadıköy Mehmet Refii Terzioğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Remzi Molvalıoğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Hacıaslanlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Öğretmen Şenay Aybüke Yalçın Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Zeytinli Naim Süleymanoğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Güre Atatürk Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Mustafa Erçetin Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Zeytinli İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Zeytinli Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Avcılar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Avcılar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Yaylaönü İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Ali Çelik İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Göbelezoğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "75.Yıl Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Mustafa Serin Fen Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Mehmet-Raşit Ertaş Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Kadir Altınöz İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Kadir Altınöz Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Güre Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Ülkü-Muharrem Ertaş Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Kadıköy Leman Akpınar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Fernur Sözen Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Yılmaz Akpınar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Reşit Çifçi Dokuz Eylül Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Ortaoba Eşref Kaya İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Ortaoba Eşref Kaya Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Yolören Esin Akpınar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Yolören Esin Akpınar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Yaşyer İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Bostancı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Narlı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Öğretmen Necmettin Yılmaz Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "FATMA-SEVİM KIYAKOĞLU ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Fernur Sözen Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Fikriye-Mehmet Elberk Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Kardeş Çavuşoğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Hamiyyet-Ferudun Sözen Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Hamiyyet-Ferudun Sözen Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Necmi Şahin İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Fatih İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Salih Korkut Budaras İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit 15 Temmuz Şehitler İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Mithat-Fethi Büyükdalgıç İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Tümgeneral Aydoğan Aydın Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Nilüfer Hatun Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Saniye Karagözoğlu Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Akçay Şehit Halil Kantarcı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Nihat Tansoy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Zehra Baysal Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Altınoluk Niyazi Erol İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "KADIKÖY ZEHRA BAYSAL ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Şehit Hamdibey Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "ALTINOLUK ZAHİT EROĞLU ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "EDREMİT",
+        "ad": "Edremit 100. Yıl Cumhuriyet Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "HALİTPAŞA İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Erdek Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Karşıyaka Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Reşit Mazhar Ertüzün Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Muzaffer Gürer Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Erdek Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "OCAKLAR ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Ocaklar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Nerime Yüksel Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Ahmet Vehbi ÇIKRIKÇIOĞLU Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "18 EYLÜL ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Kapıdağ Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "KARŞIYAKA ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Karşıyaka İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "RECEP AHMET MERCAN ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Çakıl İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Çayağzı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "ERDEK",
+        "ad": "Kestanelik İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "İlkkurşun Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "Karaağaç Ahmet Karakaş Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "AHMET TULUN HİMAM İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "Karaağaç Ahmet Karakaş İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "ŞEHİT MUSTAFA GÜVENÇ ALDEMİR ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "HACIHÜSEYİNLER İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "Gömeç İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "ULUBEYLER İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "ULUBEYLER ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "HACIHÜSEYİNLER ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "Hacıoğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "6 Eylül Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "Gömeç Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "ŞEHİT MUSTAFA GÜVENÇ ALDEMİR İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖMEÇ",
+        "ad": "Gömeç Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Ticaret Odası Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen H. Sükriye İpek Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Mustafa Uşdu Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Ömer Seyfettin Fen Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Balıkesir Gönen Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Öğretmen Işıl İpek Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Sarıköy Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Sarıköy Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Sarıköy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Şehit Cengiz Topel Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Ulukır İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Eczacı İzzet Akçiçek İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Özcan Kılınçay İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Altıeylül Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Karşıyaka 100. Yıl İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Kadir Köker Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Mehmet Ahmet Genç Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Öğretmenim Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Mehmet Ahmet Genç İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Hasanbey Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Hasanbey İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gündoğan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gündoğan Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Mehmet Çanakçı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Erdal Tanrıöver Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Şehit Kaymakam Rahmi Bey İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönenli Mehmet Efendi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Buğdaylı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Mirciler Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Şehit Abdullah Tayyip Olçok İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "GÖNEN",
+        "ad": "Gönen Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Eseler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Havran Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "KOBAKLAR ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Hak-İş Hizmet-İş Sendikası Kocaseyit İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Muzaffer Leman Akpınar Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "KALABAK İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "KALABAK ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "HALİL İBRAHİM YILDIRIM FAZLICA İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Tepeoba İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Kocadağ Damlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "KOCASEYİT ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Şehit Eyüp Karataş Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Havran Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Sekizeylül Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "ALİÇETİNKAYA İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "GÜLSÜM MEHMET UYSAL BÜYÜKDERE İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "GÜLSÜM MEHMET UYSAL BÜYÜKDERE ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Havran İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Küçükdere İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "ÇAMDİBİ İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "ÇAMDİBİ ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Seyitonbaşı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "ERMİŞ SOYLU İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Mehmet Sever Dereören İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "KÜÇÜKŞAPÇI ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "ÖMER ÇAVUŞ ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Temaşalık İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Sıdıka Ürütürk Eğmir İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "KOBAKLAR İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Havran Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "HALLAÇLAR İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Mehmet Çalışır Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "KÜÇÜKŞAPÇI İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "HAVRAN",
+        "ad": "Zeynep Banu Çakırdere İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "7 EYLÜL İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Evciler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İvrindi Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Gökçeyazı Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İ.Sefa Giray Bozören İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Soğanbükü Müdafa-i Hukuk Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İvrindi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Şehit Kenan Dalkılıç İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Gümeli İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İ.Sefa Giray Bozören Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Yağlılar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Büyükyenice İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Büyükyenice Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Küçükyenice Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Küçükyenice İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Yürekli İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Şehit Fatih Tomuşoğlu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İvrindi Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Korucu Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "KAYAPA ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Kayapa İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Gazievrenos İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Değirmenbaşı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Demirciler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Gökçeyazı Şehit Rıdvan Çetinkaya Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Gökçeyazı Şehit Rıdvan Çetinkaya İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Okçular Şehit Hasan Kuzu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Büyükfındık Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Büyükfındık İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "VİLAYETLER BİRLİĞİ ŞEHİT GEDİZ ÇİVİ ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Susuzyayla İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Şehit Turan Kurt Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Korucu Şehit Bülent Emen Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Korucu Mehmet Kulak İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İvrindi Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Şehit Tuncay Özdemir İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Gazi Mehmet Azman Çavuş Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "Nurettin Çarmıklı Madencilik Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İvrindi Gazi Mehmet Azman Çavuş Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "İVRİNDİ",
+        "ad": "İvrindi Gazi Mehmet Azman Çavuş Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Merkez Ece Amca İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Albay C. Tayyar-Nuran Oğuz Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Ali Rıza Güçkan Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şehit Prof. Dr. İlhan Varank Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir Karesi Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir Muharrem Hasbi Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Çiğdem Batubey Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Deliktaş İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Fatma-Emin Kutvar Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Karesi Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "İbrahim Bodur Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "İl Özel İdare Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "İnebey Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "İstanbulluoğlu Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kabakdere Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "T.C. Ziraat Bankası Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Karahallılar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Beyköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Naciye Kabakçı Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Nazende Kurşun Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Nuran Oğuz Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Rahmi Kula Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Sevinç Kurşun İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Sıdıka Sami Kula Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Sırrı Yırcalı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şamlı Şehit Mustafa Adışen İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şamlı Şehit Mustafa Adışen Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şehit Turgut Solak Fen Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Tatlıpınar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Yeniköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Zühtü Özkardaşlar Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kabakdere İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Albay Tayyar-Nuran Oğuz İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Sakarya İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Alişuuri İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Hacıilbey Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şehit Yüzbaşı İlker Acar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Ali Hikmet Paşa İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Ali Hikmet Paşa Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Adnan Menderes Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Merkez Zafer İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Ovacık İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Ovacık Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kocaavşar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kocaavşar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kalaycılar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "ÜÇPINARLI ŞEHİT ALİ İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "23 Nisan Şehit Deniz Göçkün İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Mehmet Şeref Eğinlioğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kayabey Şehit Ferruh Kulaoğlu Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kamçıllı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Firdevs Hattatoğlu Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şehit Jandarma Teğmen Cengiz Evranos İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şehit Jandarma Teğmen Cengiz Evranos Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Ercan Kıvrak İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Yağcılar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Bakacak Şehit Yüksel Bayhan Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Tatlıpınar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Merkez Turplu ilkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Yeniköy Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Aktarma Naile Erol Gülcan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Gazi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Gazi Mustafa Kemal Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Bakacak Şehit Yüksel Bayhan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Yaylabayır İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Umut Özel Eğitim Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "ŞULE YÜKSEL ŞENLER KIZ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şamlı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Mehmet Azman Çavuş Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Süeybe Karakuş Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Albay Cafer Tayyar-Nuran Oğuz Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Şehit Mesut Yağan Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Deliktaş Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Necip Fazıl Kısakürek Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "ŞEHİT ASTSUBAY CEMİL ERKEK ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Umut Özel Eğitim İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Ömer Kurşun Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Kurtdereli Mehmet Pehlivan Spor Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Dr. Ayşe Hümeyra Ökten Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "Balıkesir Olgunlaşma Enstitüsü"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "ALİ HİKMET PAŞA ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "SEVİNÇ KURŞUN ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KARESİ",
+        "ad": "23 NİSAN ŞEHİT DENİZ GÖÇKÜN ANAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Hacer Özer İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Oktay Koçman Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Mahmudiye İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Mahmudiye Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Keçidere Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Sarac İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Keçidere İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Eşeler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "125.Yıl Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Kepsut Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Kepsut Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Hotaşlar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Hotaşlar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "İsaalan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Kepsut Hasan Basri Çantay İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Kepsut Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Yaylabaşı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "KEPSUT",
+        "ad": "Kepsut Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Manyas Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Salur Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Şevketiye İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Kızıksa Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Manyas Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Nene Hatun Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Akçaova Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Kızıksa İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Manyas Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "Manyas Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MANYAS",
+        "ad": "İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Marmara Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Marmara Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Topağaç İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Recep Ahmet Mercan Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Recep Ahmet Mercan İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Saraylar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Saraylar Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Avşa İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Avşa Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Güner Yavuz Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Saraylar Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "MARMARA",
+        "ad": "Marmara Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Sarıbeyler Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Sarıbeyler İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Savaştepe Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Karacalar Mustafa Kangal Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Şehit Onbaşı Bayram Kaya Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Tıbbiyeli Hikmet Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Karacalar Mustafa Kangal İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Savaştepe Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Alişuuri Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Savaştepe Meslekî ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Necip Fazıl Kısakürek Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Yeşilhisar İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Zafer İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Şehit Onbaşı Bayram Kaya İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "SOĞUCAK İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Savaştepe Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SAVAŞTEPE",
+        "ad": "SÖĞÜTÇÜK İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Sındırgı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Gölcük Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Gölcük İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Sındırgı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Kurtuluş İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "İbrahim Ethem Akıncı İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "İbrahim Ethem Akıncı Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Düvertepe Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Sındırgı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Kocakonak İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "3 Eylül Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Yaylabayır Muazzez Keskin İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Sındırgı Makbule Efe Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Yağcıbedir Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Yüreğil Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Yüreğil İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Sındırgı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SINDIRGI",
+        "ad": "Düvertepe İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "ATATÜRK İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Şehit Erbil Arslan Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Susurluk Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "FATİH İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Susurluk Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Susurluk Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Hayme Ana Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "5 Eylül Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Susurluk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "NİMET SADIK ÖZYİĞİT ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Dereköy İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "KARAPÜRÇEK ŞEHİT MESUT NAYMAN ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "ŞEKER İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "KARAPÜRÇEK ŞEHİT MESUT NAYMAN İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Demirkapı Şeref Eğinlioğlu İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Beşeylül İlkokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "ÖMERKÖY ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "ŞERAFETTİN TUNALI İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "ŞERAFETTİN TUNALI ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "GÖBEL ŞEHİT NUSRET KULA İLKOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "GÖBEL ŞEHİT NUSRET KULA ORTAOKULU"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "Susurluk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "BALIKESİR",
+        "ilçe": "SUSURLUK",
+        "ad": "ŞEHİT ERBİL ARSLAN ANAOKULU"
+    }
+]

@@ -1,0 +1,947 @@
+[
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "ÇILDIR ANAOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Çıldır Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Şehit Öğretmen Sezgin Yolcu Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Eskibeyrehatun İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Şehit Taner Karadeniz Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Gölebakan İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Gölbelen İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Kurtkale Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Kurtkale ilkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Çıldır Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Aşık Şenlik İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Çıldır İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Çıldır Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Öncül İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Şehit Jandarma Uzman Onbaşı Metin Karabıyık İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Şehit Er Erdoğan Sarıgül İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "ÇILDIR",
+        "ad": "Akçakale İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Damal Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Seyitören Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Şehit Piyade Assteğmen Yılmaz Kaan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Cumhurbaşkanı Süleyman Demirel İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Burmadere Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Burmadere İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Cumhurbaşkanı Süleyman Demirel Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Seyitören İlk Okulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Oburcak İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Otağlı Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Otağlı İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "DAMAL",
+        "ad": "Damal Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Çardaklı Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Bedirhan Bey Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Nurettin Yılmaz Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Feride Karabacak Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Kazım Karabekir Paşa Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er Metin Altun İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Koyunlu İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Koyunlu Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "ŞEHİT ER CEVDET ÇELENK ORTAOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Çalıdere İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Senemoğlu Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Senemoğlu İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Küçük Altunbulak Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Küçük Altunbulak İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Kuytuca Erkunt Traktör Sanayi A.Ş. Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er Cevdet Çelenk İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Hüseyin Gedik İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Karlıyazı İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Mollahasan İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "30 Eylül Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er Kazım Boynukalın İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er Kemal İzci Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er Kemal İzci İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "ŞEHİT ER GÜLTEKİN SARAÇ ORTAOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er Murat Koç Okçu İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Borsa İstanbul Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "ÇOBANKÖY ATEŞSAN NAİM ATEŞ ORTAOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "KÖPRÜLÜ ŞEHİT JANDARMA ER ŞERAFETTİN ÖZDAĞ ORTAOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Gedik İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Recep Kılıç Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Çobanköy Ateşsan Naim Ateş İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er İbrahim Öztürk Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Tahtakıran İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Er İbrahim Öztürk İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Durançam İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Yasin Karakayacı İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Şehit Gültekin Saraç  İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Köprülü Şehit Jandarma Er Şerafettin Özdağ İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Yeniköy Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Yeniköy İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Saadet Ulus Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Kayaaltı Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Çardaklı İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Dölekçayır İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "DEDEKILICI İLKOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "KAYAALTI İLKOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "KUYTUCA İLKOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "EYÜP SABRİ ÇARMIKLI ANADOLU LİSESİ"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Nilüfer Göle Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Enver Avcı İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "GÖLE ŞEHİT TAYFUR HANÇER İLKOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "GÖLE",
+        "ad": "Göle Tarım Teknolojileri Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Hanak Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Hanak Şehit Caner Çelik Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Sadiye ve Abdullah Tan Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Sadiye ve Abdullah Tan İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Çiçeklidağ Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Çiçeklidağ İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Hanak Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Şehit Serhat Yılmaz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Hanak Ortakent Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "HANAK",
+        "ad": "Hanak Ortakent İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "15 Temmuz Şehitler Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Rekabet Kurumu Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Fen Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Salim Dursunoğlu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Kardelen Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Er Serhat Şanlı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Uz. Çvş. İbrahim Erdoğan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Yalnızçam Fatih Sultan Mehmet Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Kazım Karabekir Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Samanbeyli İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "İnönü İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Er İnan Akçam Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Beşiktaş İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Er Ümit Gökdemir İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Cemal ve Zekiye Vatan Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Hoçuvan Hasköy Atatürk İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Kazım Karabekir Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ölçek Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "ÇALABAŞ İLKOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Hoçuvan Hasköy Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Lehimli İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "23 Şubat İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Türkiye Odalar ve Borsalar Birliği Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ayşecan-Görkem Oktay Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ölçek İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Yalnızçam Fatih Sultan Mehmet İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Meşedibi Şehit Er Günday Polat İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Burhan Kılıç Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Burhan Kılıç İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Sulakyurt 100.Yıl İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Sulakyurt 100.Yıl Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Er Gökhan Özdemir İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Er Gökhan Özdemir Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ayşecan-Görkem Oktay İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Lehimli Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Cemal ve Zekiye Vatan İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Binbaşar İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Küçük Sütlüce İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Tazeköy İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Merkez Halit Paşa Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Tunçoluk Şehit Güven Yılmaz Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Tunçoluk Şehit Güven Yılmaz İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Taşlıdere İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Bayramoğlu İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Yukarı Kurtoğlu İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Bayramoğlu Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Türkmen Tekin Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Er İnan Akçam İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Yunus Emre Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Yukarıkurtoğlu Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "MERKEZ HALİT PAŞA İLKOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Meşedibi Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Taşlıdere Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "ARDAHAN ÖZEL EĞİTİM İŞ UYGULAMA MERKEZİ (OKULU)"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "ARDAHAN ÖZEL EĞİTİM UYGULAMA MERKEZİ II. KADEME"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "ARDAHAN BİLİM VE SANAT MERKEZİ"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Spor Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "ŞEHİT BURAK GÜNEŞ İLKOKULU"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ömer Halisdemir İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Atalay Ürker Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Türkiye Gemi İnşa Sanayicileri Birliği Kızılay Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Asım Bey Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Asım Bey İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Cemal ve Zekiye Vatan Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Caner Çelik Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Ardahan Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Alagöz İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "Çataldere İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "MERKEZ",
+        "ad": "İnönü Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Halitpaşa Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Posof Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Posof Anaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Posof Aşık Sabit Müdami Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Posof Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Posof Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Süngülü İlkokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "Süngülü Ortaokulu"
+    },
+    {
+        "il": "ARDAHAN",
+        "ilçe": "POSOF",
+        "ad": "POSOF İLKOKULU"
+    }
+]

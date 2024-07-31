@@ -1,0 +1,957 @@
+[
+    {
+        "il": "KARABÜK",
+        "ilçe": "EFLANİ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "EFLANİ",
+        "ad": "Eflani Borsa İstanbul Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "EFLANİ",
+        "ad": "Eflani Şehit Hasan Yılmaz Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "EFLANİ",
+        "ad": "Şehit Ali Şen Korkut Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "EFLANİ",
+        "ad": "Eflani Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "EFLANİ",
+        "ad": "Şehit Barış Efe İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Eskipazar 60. Yıl Vali Nafiz Kayalı İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Şehit Ali Akbaş Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Eskipazar Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Şehit Cafer Demirhan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Eskipazar Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Mermer Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Seyhan Cengiz Turhan Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Şehit İsa Eken İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Üçevler Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Şehit Faik Başkaya İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "ESKİPAZAR",
+        "ad": "Eskipazar Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "75.Yıl Karabük Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Anayasa İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Umut Aytekin Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Beşbinevler Şehit Hayati Kocakaya Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Cumayanı İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Cumayanı Yıldırım Beyazıt Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ercan Hırçın Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Çelik İş Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Demir Çelik 50.Yıl İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Esentepe Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kurtuluş İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Fazlı Yeşilyurt Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzi Çakmak Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzi Çakmak Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Mustafa Kemal İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kapullu Ertuğrulgazi Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kapullu Vali Nafiz Kayalı İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Alparslan Gazi Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Mehmet Mescier Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Yahya Kemal Beyatlı Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Mehmet Vergili Fen Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kartaltepe İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kartaltepe Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kayabaşı İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kayabaşı Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kıymet ve Mustafa Yazıcı Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Prof. Dr. Süheyl Ünver Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Necip Fazıl Kısakürek Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Mimar Sinan Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Öğlebeli Osmangazi Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Öğlebeli Şehit Nazif Topsakal İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Yaşama Sevinci Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Soğuksu Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Adem Yavru İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Mehmet Dinçel İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Nurettin Seki İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Şendoğan Topçu İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şirinevler İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Cevizkent Bahaddin Gazi İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Cevizkent Bahaddin Gazi Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Yaşama Sevinci Özel Eğitim İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Yaşama Sevinci Özel Eğitim Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Yavuz Sultan Selim Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Metin Arslan İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Yunus Emre İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Demir Çelik İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Beşbinevler Şehit Cevdet Çay Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Atatürk Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Demir Çelik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Beşbinevler Ömer Lütfü Özaytaç İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Mehmet Esen Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Aydınlıkevler İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Namık Kemal İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Belediyesi Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Sultan Mehmet Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Vakıfbank Zübeyde Hanım Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Belediyesi Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Belediyesi Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Nene Hatun Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Mehmet Esen Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "LATİFE HANIM ANAOKULU"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Mevlana İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Cumayanı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Alican Öztürk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kardemir Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "ŞERİFE BACI ANAOKULU"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Kurtuluş Şehit Murat Dilmaç İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "100.YIL ANAOKULU"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Bahaddin Gazi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "ŞİRİNEVLER ANAOKULU"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Hoca Ahmet Yesevi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "KILAVUZLAR İLKOKULU"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Beşbinevler İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Özcan Ören İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Sevgibağı Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Bahçelievler İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Aydınlıkevler Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Metin Arslan Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Adem Yavru Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Mimar Sinan Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "MERKEZ",
+        "ad": "Karabük Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "OVACIK",
+        "ad": "Karabük Ovacık Erdal Aksu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "OVACIK",
+        "ad": "Karabük Ovacık Spor Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "OVACIK",
+        "ad": "Ovacık Şehit Mustafa Kızılkaya Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "OVACIK",
+        "ad": "Ovacık Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "OVACIK",
+        "ad": "Şehit Cemalettin Karagözoğlu İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Altın Safran İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Cemil Meriç Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Bostanbükü İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Bostanbükü Şehit Cevat Doğan Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Emek Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Gümüş İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safranbolu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Harmanlar İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Harmanlar Şehit Halil Gözlemeci Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Kalealtı Şehit Oğuz İnan İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Kalealtı Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Kirkille İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Kirkille Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Misakı Milli İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Misakı Milli Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Mustafa Antepoğlu İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ovacuma İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ovacuma Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safran Çiçeği Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Evliya Çelebi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Fatih Sultan Mehmet Fen Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ahi Evran Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safranbolu Şehit Aybüke Yalçın Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Şehit Ömer Bilal Akpınar Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Şehit Recep Çakıl İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Karabük Safranbolu Borsa İstanbul Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safranbolu Kanuni Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ovacuma Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safranbolu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Şehit Mustafa Arık Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Vilayetler Birliği Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Zati Ağar İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Prof. Dr. Sabri Ülgener Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Yazıköy İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Yazıköy Şehit Uzman Er Coşkun İşleyen Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "15 Temmuz Şehitleri Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safranbolu Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ünsal Tülbentçi İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ünsal Tülbentçi Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Bağlar Şehit Atilla Bodur İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Hasan Gemici Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Hasan Gemici Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Hasan Gemici Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safranbolu Sunal Tülbentçi Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Abdurrahman Yerlikaya Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Şehit Murat Akdemir Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ali Baba Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "15 Temmuz Demokrasi Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Sultantepe İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Safranbolu Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Şehit Murat Akdemir Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "SAFRANBOLU",
+        "ad": "Ali Baba İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Kalaycılar İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Kalaycılar Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Satuk Balıkısık Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Şirinköy İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Şirinköy Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Yenice Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Hüsamettin-Fatime Ören Anaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Yenice Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Yortan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Yortan İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Yortan Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "İsmetpaşa İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Ülkü Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Ülkü İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Satuk Balıkısık İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "İsmetpaşa Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Özal Mahallesi İlkokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Turgut Özal Ortaokulu"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Karabük Yenice Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KARABÜK",
+        "ilçe": "YENİCE",
+        "ad": "Yenice İmam Hatip Ortaokulu"
+    }
+]

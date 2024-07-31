@@ -1,0 +1,832 @@
+[
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "ÜLKER VE KEMALETTİN BAŞAR ANAOKULU"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Çamur Şehit Murat Kafkas İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Çiftlik Şehit Selman Güler İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Deredolu İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Gümüşgöze İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Lokman Hekim Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Nene Hatun Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Abdulhamit Han Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Behiye Mustafa Doğan Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Öbektaş İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Sadak İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Mustafa Maruf Şahin Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Yeniyol 75. Yıl İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Fatih Sultan Mehmet İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Yaşar ve İrfani Doğan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Şehit Osman Şahin İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kılıççı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kılıççı İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit 15 Temmuz Şehitler Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Yeniyol 75. Yıl İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Muammer ve Enver Şahin Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Söğütlü İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "İstanbul Ticaret Odası Söğütlü Şehit Tahsin Onuk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Sadak İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kaymakam Nuri Okutan Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Öbektaş İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Şehit Lokman Oktay İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Deredolu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Çamur Şehit Murat Kafkas İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Ünlüpınar İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Gümüşgöze İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit 75.Yıl İMKB imam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Şehit Servet Asmaz İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KELKİT",
+        "ad": "Kelkit Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "60. Yıl Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "Köse Aydın Doğan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "Köse Borsa İstanbul Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "Salyazı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "Selçuklular İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "Salyazı İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "Köse 15 Temmuz Şehitler İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÖSE",
+        "ad": "Köse İlkadım Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Günyüzü Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Kürtün Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Süme İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Süme Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Uluköy Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Kürtün Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Üçtaş Köyü Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Gürgenli İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Taşlıca Vali Gazi Şimşek Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Demirciler Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Şendere İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Gündoğdu İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Çayırçukur Düzlüce İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "80. Yıl Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Günyüzü İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Şendere Ütük İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Kürtün Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Araköy İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Kürtün 15 Temmuz Şehitler Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Kürtün Borsa İstanbul Atatürk Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Şehit Taşkın Temel İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Demirciler İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Uluköy İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "80. Yıl Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Üçtaş İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Taşlıca Vali Gazi Şimşek İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KURTUN",
+        "ad": "Söğüteli İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KURTUN",
+        "ad": "Üçtaş Akköy İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KURTUN",
+        "ad": "Kızılcadam İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "KÜRTÜN",
+        "ad": "Ekinciler İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Ali Fuat Kadirbeyoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Arzular İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Merkez Atatürk Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Aysın Rafet Ataç İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzi Ataç Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzipaşa İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gazipaşa Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Zigana Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Mustafa Canlı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane İbn-i Sina Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Türk Telekom Fen Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Işıl Sema Doğan İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Hayme Ana Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Murat Yıldız İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Mareşal Çakmak Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Merkez Şehit Tamer Aktaş Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Kanuni Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "15 Temmuz Şehitler İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Tekke Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Tekke İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Spor Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Dumlupınar Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Dumlupınar İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Yusuf Çiftçioğlu İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Nesrin Halit Zarbun Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzipaşa Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Kale Koçkaya İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Akocak İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Arzular Şehit Ramazan Meşe İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "YILDIZ ESKİCİOĞLU ANAOKULU"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gazipaşa İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Türkiye Odalar ve Borsalar Birliği Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Merkez Atatürk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Kale İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Murat Akçay Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Türkiye Odalar ve Borsalar Birliği İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Gümüşhane Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "İl Milli Eğitim Müdürlüğü"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "AYSIN RAFET ATAÇ ANAOKULU"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Yağmurdere İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "MERKEZ",
+        "ad": "Karşıyaka İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Gökçeler Mehmet Ali Yılmaz İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şiran Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şiran Şehit Teğmen Tuna Kara Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şiran Şehit Muhammet Fazlı Demir Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Yeşilbük Şehit Ahmet Yıldız İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Mithatpaşa İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şehit Turgay Türkmen İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şiran 15 Temmuz Şehitler Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şehit Alkın Aydın İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şiran Akbulak Şehit Selim Cansız İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Beşbinaz ŞEKER Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şiran Fen Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Yeşilbük Şehit Enver Zabun İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "ŞİRAN",
+        "ad": "Şiran Şehit Hakan Aydoğan Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Torul Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Şehit Tamer Özdemir Anadolu Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Torul Fatih Anaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Torul Atatürk Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Kirazlık Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Altınpınar Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Kirazlık Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Altınpınar İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Aktaş Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Aktaş İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Torul Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Şehit Öğretmen Necmettin Yılmaz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Torul 15 Temmuz Şehitler İlkokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Torul İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Torul Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü"
+    },
+    {
+        "il": "GÜMÜŞHANE",
+        "ilçe": "TORUL",
+        "ad": "Yıldız İlkokulu"
+    }
+]

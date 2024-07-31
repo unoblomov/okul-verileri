@@ -1,0 +1,927 @@
+[
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Ayancık Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Ayancık Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Ayancık Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Şehit Ahmet Can Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Ayancık Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Yenikonak Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "İnönü Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Avukat Hasan Hüsnü Kılıç İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Aşağıköy İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Yenikonak İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Avukat Hasan Hüsnü Kılıç Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "AYANCIK",
+        "ad": "Ayancık Fatih Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat 125. Yıl Atatürk Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Şehit Ersoy Gürsu Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Cengiz Topel İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Cengiz Topel Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Çattepe Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Şehit Sadık Aparangil Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Mevlana Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Mehmet Akif Ersoy Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Sarıağaççayırı Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Yaşar Topçu Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Yeşilyurt Şehit Çağatay Erenoğlu İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "İbn-i Sina Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Abdurrahman Güneş İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Çattepe İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Vilayetler Hizmet Birliği Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Dumlupınar İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Bayamca İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "100. Yıl Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Hamit Tekin Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Şehit Turan Meşe İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Osman Özgün Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Sıhhiye Ahmet Özay Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Türk Telekom Fen Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Fatih Sultan Mehmet İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Uygur Özay İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Sarıağaççayırı İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Mehmet Albayrak Hafız İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Hacı Mukaddes Gürün Kızılay Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Uygur Özay Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Cengiz Topel Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Paşalıoğlu Köyü İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Boyabat Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "BOYABAT",
+        "ad": "Necdet Küçükbaş Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DİKMEN",
+        "ad": "Can Kardeşler Baysun Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DİKMEN",
+        "ad": "Şehit Bahattin Dolma İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DİKMEN",
+        "ad": "Dikmen Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DİKMEN",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DİKMEN",
+        "ad": "Dikmen Ercüment Türkmen Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DİKMEN",
+        "ad": "Dikmen Güzelceçay İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DİKMEN",
+        "ad": "Şehit Bahattin Dolma Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "125. Yıl Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Ayvacık İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Çerçiler Şehit Recep Geçer Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Durağan Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Durağan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Şehit Engin Şahin Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Durağan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Şehit İdris Gezer Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Kuzuluk İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Olukbaşı İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Şehit İbrahim Yiğit İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Durağan Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "75.Yıl Cumhuriyet Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Şehit Kadirler Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Şehit Hüseyin Yanık İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Akçaalan İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Çerçiler İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "EMIRTOLU YUKSEL SOYLEMEZ, NECLA YENİAY İLKOKULU"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "HASAN AZİME SÖZERİ İLKOKULU"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Tekiryaylası İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "DURAĞAN",
+        "ad": "Mehmet Akif Ersoy Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "ERFELEK",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "ERFELEK",
+        "ad": "Erfelek Şehit Özkan Çelikkaya Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "ERFELEK",
+        "ad": "Erfelek Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "ERFELEK",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "ERFELEK",
+        "ad": "23 Nisan Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "ERFELEK",
+        "ad": "Şehit Kenan Döngel Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Belören Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Gerze Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Karlı Türkiye Odalar ve Borsalar Birliği İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Şehit Nurullah Saraç Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Gerze Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Gazi Mustafa Kemal İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Gerze Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Gerze Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Haşim ve Zehra Tarı Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Yunus Emre İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Fatma Yüksek Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "GERZE",
+        "ad": "Gerze Haşim ve Zehra Tarı Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ömer Can Açıkgöz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Şehit Şakir Elkovan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Sarı Saltuk Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Seydi Ali Reis Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Emir Gazi Tayboğa Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "İstiklal Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Mustafa Kemal İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Toki Şehit Fatih Erer Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Taşmanlı Dizdaroğlu Şehit Erol Keçeci İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Halil Özdoğru Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Çiftlik İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Özel Eğitim İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sultan Hatun Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Lala İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Abalı İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Osmaniye İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Bektaşağa Atatürk Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Tangal İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Korucuk İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Fen Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Gelincik Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Borsa İstanbul Şehit Ertan Yılmaztürk Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Seyit Bilal İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Kabalı Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "15 Eylül Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Özel Eğitim Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Bülent Yalçın Spor Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Ada Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Bektaşağa Atatürk İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Abalı Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Prof. Dr. Necmettin Erbakan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Hayme Ana Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "15 Temmuz Şehitleri İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Mustafa Kemal Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "MERKEZ",
+        "ad": "Sinop Yusuf Kemal Tengirşenk Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "SARAYDÜZÜ",
+        "ad": "Saraydüzü Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "SARAYDÜZÜ",
+        "ad": "Saraydüzü Türkaylar Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "SARAYDÜZÜ",
+        "ad": "Mehmet Akif Ersoy Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "SARAYDÜZÜ",
+        "ad": "Türkaylar İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "SARAYDÜZÜ",
+        "ad": "SARAYDÜZÜ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Türkeli 125. Yıl Gazi Anaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Türkeli Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Türkeli Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Gazi Mustafa Kemal Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Ayaz Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Helaldı Ortaokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Helaldı İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Akçabük İlkokulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Türkeli Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Mimar Sinan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "SİNOP",
+        "ilçe": "TÜRKELİ",
+        "ad": "Cumhuriyet İlkokulu"
+    }
+]

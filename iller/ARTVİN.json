@@ -1,0 +1,912 @@
+[
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "İskender Paşa Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Ardanuç Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Ardanuç Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Ardanuç Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Ardanuç Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Ardanuç Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Ardanuç Tarım Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARDANUÇ",
+        "ad": "Güleş İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Nurettin Çarmıklı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Arhavi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "ARHAVİ GAYE ÇARMIKLI ANAOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Fatih Sultan Mehmet Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Ertuğrul Kurdoğlu Fen Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Fatih Sultan Mehmet İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Hacılar İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Arhavi Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Arhavi Hüseyin Gürkan Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Nuri Özaltın 75. Yıl İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Orhan Yücel Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Mehmet Nazif Günal İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Hacılar Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Nurettin Çarmıklı Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ARHAVİ",
+        "ad": "Arhavi Nuri Özaltın Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Borçka Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Camili Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Düzköy Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Borçka Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Osman Bakır Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Karşıköy İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Güreşen Şehit Resul Kakşi Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Meryem Acar İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Şehit Savaş Gedik Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Muratlı İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "15 Temmuz Şehitler Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Karşıköy Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Güreşen Şehit Resul Kakşi İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "7 Mart Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Yeniyol Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Yeniyol İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Düzköy İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "15 Temmuz Şehitler İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Camili İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "BORÇKA",
+        "ad": "Borçka İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa 15 Temmuz Şehitleri Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Nuri Vatan Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Vatan Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Yavuz Selim Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Sugören İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Yoldere İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hüsnü Ciner İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Sugören Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Karadeniz Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "14 Mart İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Yunus Emre Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Ahi Evran Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "YAĞMUR YAZICIOĞLU ANAOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hopa Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "HOPA",
+        "ad": "Hüsnü Ciner Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "Kemalpaşa Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "Kemalpaşa Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "Kemalpaşa İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "KAYA ÇAMURLU İLKOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "Kaya Çamurlu Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "KEMALPAŞA SERHAT İLKOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "KÖPRÜCÜ İLKOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "KEMALPAŞA SERHAT ORTAOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "KÖPRÜCÜ ORTAOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "15 Temmuz Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "Artvin Kemalpaşa Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "KEMALPAŞA",
+        "ad": "Kemalpaşa İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "15 Temmuz Şehitleri Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Özel Eğitim Uygulama Merkezi I. Kademe"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Çoruh İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Çoruh Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Karadeniz Bakır İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Milli Egemenlik Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Ortaköy İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ömer Zeki Varan Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Vilayetler Hizmet Birliği Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Yenimahalle İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Seyitler TOKİ Şehit Onur İlhan Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Kazım Karabekir Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Türkiye Odalar ve Borsalar Birliği Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Vakıfbank İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "7 Mart Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "7 Mart İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Fen Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Yenimahalle Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Erol İnce İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Ayhan Şahenk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "ORTAKÖY İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Seyitler TOKİ Şehit Onur İlhan İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Spor Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "Artvin Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MERKEZ",
+        "ad": "İl Milli Eğitim Müdürlüğü"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Damar Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Murgul Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Murgul Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Murgul Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Murgul Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Yunus Emre İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Damar İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Murgul Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "MURGUL ANAOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "MURGUL",
+        "ad": "Şöhret Cengiz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Şavşat Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Nedim Urhan Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Meydancık Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Çiçek Nene Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Şavşat Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Ahmet Fevzi İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Ahmet Fevzi Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Meydancık İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Meydancık Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Şavşat Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "ŞAVŞAT",
+        "ad": "Şavşat Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Alanbaşı Bağlar İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Halitpaşa Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Yusufeli Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "İnönü İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Kazım Karabekir İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Kınalıçam İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Kınalıçam Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Mehmet Akif Ersoy Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Pamukçular 70. Yıl İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Şehit Salih Hüseyin Parça Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Yusufeli Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Yusufeli Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Dereiçi Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Kılıçkaya Şehit Albay Cevat Erten Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Darıca Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Sarıgöl Şehit Onbaşı Soner Ateşsaçan Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "İnönü Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Şehit Dursun Acar Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Alanbaşı Bağlar Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Halitpaşa İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Sarıgöl Şehit Onbaşı Soner Ateşsaçan İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "KÜPLÜCE MEHMET AKİF ERSOY İLKOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Kılıçkaya İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "KAZIM KARABEKİR ORTAOKULU"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Yusufeli 15 Temmuz Şehitleri İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Dereiçi İlkokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Hayme Ana Anaokulu"
+    },
+    {
+        "il": "ARTVİN",
+        "ilçe": "YUSUFELİ",
+        "ad": "Yusufeli Tarım Mesleki ve Teknik Anadolu Lisesi"
+    }
+]

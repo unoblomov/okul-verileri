@@ -1,0 +1,2312 @@
+[
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "AĞIN",
+        "ad": "Ağın Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "AĞIN",
+        "ad": "İbrahim Uçkunkaya Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "AĞIN",
+        "ad": "Öğretmen Abdullah Lütfü İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "AĞIN",
+        "ad": "Mehmet Kemal Karabatak Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "AGIN",
+        "ad": "Ağın Yusuf KARABATAK Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "AĞIN",
+        "ad": "Hüseyin Taşbaşı Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Alacakaya Mermer Cemil Yaşlı Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Alacakaya Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Alacakaya Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Şehit Piyade Çavuş Suat Çağlar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Yalnızdamlar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Çataklı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Halkalı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Halkalı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Çataklı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "Çakmakkaya İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ALACAKAYA",
+        "ad": "ALACAKAYA İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Bozçavuş İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Bükardı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Üçocak İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Yoğunbilek Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak Gümüşyaka İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Üçocak Kutludüğün İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Üçocak Haberci İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Üçocak Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Karakaş İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Erimli Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Küplüce Albayrak İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Yoğunbilek İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Erimli İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Yaylabaşı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Erimli Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Küplüce İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Yaylabaşı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Bükardı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Arıcak Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Karakaş Hüseyin Zati Yıldırım Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Ormanpınar Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "ARICAK",
+        "ad": "Ormanpınar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Baskil Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Baskil Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Kadıköy Bedriye Çetinkaya Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Necati Çetinkaya İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Necati Çetinkaya Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Baskil İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Vakıfbank Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Gemici İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Gemici Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Mustafa Bilbay İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Mustafa Bilbay Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Büyükpınar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Konacık İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Şehit Tahsin Gerekli Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Baskil İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Baskil Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "BASKİL",
+        "ad": "Baskil Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Başyurt Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Karakoçan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Karakoçan TOBB Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Karakoçan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Karakoçan Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "İbn-i Sina Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Karakoçan Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Kanuni Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Nuri Özaltın İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Şehit Jandarma Kıdemli Üsteğmen Mahir Özdemir İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Şehit Jandarma Kıdemli Üsteğmen Mahir Özdemir Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Karakoçan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Yenice İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Bulgurcuk Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Sarıcan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Ağamezrası İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Cengiz Topel Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Cengiz Topel İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Kızılca İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Kalecik İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Kulundere İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Bahçecik İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Mahmutlu İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Sarıcan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Bulgurcuk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Başyurt İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Durmuş İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Sarıbaşak İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Yüzev İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Deveci İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Kalkankaya İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Aşağıovacık İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Minik Kalpler Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Bahçelievler Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KARAKOÇAN",
+        "ad": "Bazlama İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Keban Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Keban Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Musa Coşkun Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Baraj İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KEBAN",
+        "ad": "Atatürk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Avlağı Şehit Resul Kayaoğlu İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Hacı Ahmet Özbağı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şehit Tabip Teğmen Yüksel Demir İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şehit Raşit Ercan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "İsmet Paşa İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "İsmet Paşa Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Ekinözü Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Avlağı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Bayramyazı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Ekinözü İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şehit Mehmet Kaya Çelik Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Eti Holding İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Beşiktaş Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Beşiktaş İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Yarımca Ferrokrom Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Mimar Sinan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şehit Raşit Ercan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Fatih Sultan Mehmet İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Yarımca Ferrokrom İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "TOKİ Şehit Üsteğmen Emre Ercan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Okçular İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Okçular Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şehit Tabib Teğmen Yüksel Demir Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Bayramyazı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kuşçu İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Fatih Sultan Mehmet Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şenova İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Hacı Ahmet Özbağı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Muratbağı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Yazıbaşı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "TOKİ Şehit Üsteğmen Emre Ercan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Öğretmenevi ve Akşam Sanat Okulu."
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Yazıbaşı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Sultan Kubeys Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "ŞEHİT ERHAN ÇALIŞKAN İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Karaman Yamaçoba İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Tuna Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şehit Muhammed Ata Kıratlı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Kovancılar Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şehit Yarbay Alim Yılmaz İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Tepebağ İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Topağaç İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Yoncalı Bayır İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Akmezra İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Şevkat Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Bal Peteği Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Çocuk Bahçesi Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "KOVANCILAR",
+        "ad": "Mimar Sinan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Fatih Mehmet İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Maden Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Hazar Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Maden Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Maden Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Asım Sürücü Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Hazar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "İffet Nusret Gülser İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Vali Aydın Arslan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Şehit Gökmen Taşkıran İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MADEN",
+        "ad": "Maden Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Metin Koza Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Metin Koloğlu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Bahçekapı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İhsan Tangülü Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Balakgazi Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Balakgazi Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Cemal Gürsel İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Çubukbey Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Dr. Kadir Gökalp Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Önder Pınar Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Özel Eğitim Meslek Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Şehit Arif Güneş Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ertuğrul Gazi Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Mehmet İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Fırat Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Fırat Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Faruk Barut Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Harput Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Hazar Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Hidayet PARLA Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İsmet Paşa İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İbn-i Sina İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kanuni Sultan Süleyman Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kaya Karakaya Fen Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kaya Karakaya Spor Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Küçük Adımlar Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Koç İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Koruk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Koloğlu Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Mihri Akıncı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet ve İfakat Gülaçtı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Zeki İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Canbert Tatar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Namık Kemal İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Necip Güngör KISAPARMAK Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Mehmet Öter Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şair Hayri İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Öğretmen Nadir Ozan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Öğretmen Rüstem Şen İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Korgeneral Hulusi Sayın Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Abdullah Hakan Tangülü Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Vali M.Lütfullah Bilgin İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Aziz Gül Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yazıkonak Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Vedat Kılınçarslan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yıldızbağları Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yücel İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yünlüce Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Nene Hatun Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kaya Karakaya Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mezre Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ahmet Küçüktağ İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Barbaros Hayrettin Paşa Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kaya Karakaya Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kazım Karabekir İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Ahmet Yesevi Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Salim Hazardağlı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yıldızbağları Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Tevfik Yaramanoğlu İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Vali Muharrem Göktayoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Akçakiraz Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Avukat İbrahim Gök Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Avukat İbrahim Gök İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yakup Şevki Paşa İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Çatalçeşme Borsa İstanbul Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şahinkaya İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şahinkaya Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kıbrıs Şehitleri İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Gönül Kazancı Meslekî ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Sanayi Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Kamil Ayhan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Esentepe İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Oktay Bulun Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Fethi Murat İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Arif Nihat Asya Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Piyade Binbaşı Zafer Kılıç İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Aksaray Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Coşkun Özcan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Dumlupınar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Nahit Ergene Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Hankendi Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "17 Kasım İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ömer Sönmez İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Necip Fazıl Kısakürek Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Esra-Zafer-Eşref Yıldırım Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kuşhane Kom İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Cemil Meriç Fen Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İstiklal Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "100. Yıl Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Cengiz Darbaş Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Genç Osman İşitme Engelliler  İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Genç Osman İşitme Engelliler Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Doğukent Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Hilalkent İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Naide Karakaya İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yunus Emre İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İçme Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Vali Tevfik Gür Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Balakgazi Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Süleyman Budak Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Türkiye Odalar Borsalar Birliği İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Piyade Binbaşı Zafer Kılıç Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Eyüp Emre Kan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Metin Doğan Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Hıdır Sever Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İbn-i Sina Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Nadir İpek Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şht. Mehmet Akpınar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Akçakiraz Yüzbaşı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Akçakiraz Yüzbaşı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Harput Ekrem Uzel İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmen Sıdıka Avar Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Harput Ekrem Uzel Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "ÇABA İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ertuğrul Gazi İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Belediyesi Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Fırat Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Fırat İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İmam Efendi Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Metin Doğan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Koruk Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Nahit Ergene İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Altınçevre İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Avukat Rasim Küçükel Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ahmet Kabaklı Fen Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İçme İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şht. Bünyamin Torğut İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Fevzi Gürsu Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Gönül İhsan Tangülü İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Mustafa Yıldırım Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Mustafa Yıldırım İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Akçakiraz İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Karşıbağ İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Güntaşı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mollakendi İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Yakup Kılınç Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Öğretmen Rüstem Şen Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Uzuntarla İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Uzuntarla Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mustafa Kemal Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kuyulu Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ziya Gökalp İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şeker İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şahsuvar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şahsuvar Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Doğukent Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ziya Gökalp Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ziver İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yünlüce İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yenice İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "YURTBAŞI AKMEZRA İLKOKULU"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Kaya Karakaya Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Çaydaçıra Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Halit Hoca İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Hacı Hulusi Yahyagil Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Harput Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yedigöze İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "ÖRENÇAY DOKTOREVLERİ İLKOKULU"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Tadım İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Sevinç-Behiç İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Sezer Aydemir İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yahya Kemal Beyatlı Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Güzelyalı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Cuma Dağ Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Seyda Molla Bahri İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ulukent Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Eyyüp Oğuz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "ZEYCAN YILDIRIM MESLEKİ VE TEKNİK ANADOLU LİSESİ"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Hüseyin Göral İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "ŞEHİT BURHAN GATFAR ORTAOKULU"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Fatih Ercan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Fevzi Katar İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Musa Yılmaz İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Cüneyit Bankur İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Bayram-Nurgül Aladağ İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "ŞEHİT EMRAH HOROZ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Hasan Halit Küçük Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Faruk Demir İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yılangeçiren İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kuşhane İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Fethi Sekin Kızılay Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Barış Pınarı Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Bahçelievler İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Sezai Karakoç Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Hafız İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "İyiliğe Uçanlar Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Adalet Meslekî Eğitim Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "LİMAK Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Sezai Karakoç Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Çatalçeşme İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Cihat Şahin Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ali Kuşçu Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Elazığ Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Muratçık İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Yurtbaşı Gurbetmezrası İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kavaktepe İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Meşeli İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ragip Soylu Coşkun Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Yemişlik İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Sevgi Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Minik Dahiler Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Güneykent İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Sürsürü  Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Aytaç Kaya Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Korgeneral Osman Erbaş Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Kardelen Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "KAMPÜS MİNİK DÜŞLER ANAOKULU"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "100. Yıl Çaydaçıra Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Ataşehir Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Kemal Aslan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Murat İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu Anaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu Cimşidbey Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Ali Rıza Septioğlu Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Yavuz Selim İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Beyhan İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Şehit Aydın Yılmaz Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Baltaşı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Baltaşı Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Karasalkım İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Karasalkım Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Güllüce İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "İzmir İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Altınölçek İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Andılar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Büyükçaltı İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "İzmir Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Keklikdere Balkaya İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Köklüce İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Tarhana İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Palu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Mehmet Vehbi Bilgin İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Kayahisar İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Gemtepe İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "PALU",
+        "ad": "Örgülü İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "SİVRİCE",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "SİVRİCE",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "SİVRİCE",
+        "ad": "Sivrice Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "SİVRİCE",
+        "ad": "Sivrice 75. Yıl Borsa İstanbul İlkokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "SİVRİCE",
+        "ad": "Sivrice Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "SİVRİCE",
+        "ad": "Sivrice İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ELAZIĞ",
+        "ilçe": "SİVRİCE",
+        "ad": "Ali Rıza Talay Çok Programlı Anadolu Lisesi"
+    }
+]

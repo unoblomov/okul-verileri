@@ -1,0 +1,2162 @@
+[
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Borsa İstanbul Fen Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Toki Okçular İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Aşağıdağ İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Gümeli Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Merkez İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Mollabey Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Merkez Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Karşıyaka İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Kasımlı Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Şehit Mahir Yener İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Karşıyaka Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Kılçak Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Hallı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Şehit Recep Turan Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Mollabey İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Kılçak İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Yedigelli İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Çay Sarıkadı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Küçükkaymaz İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Gürpınar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "ALAPLI ANAOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "ÇATAK ORTAOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Ahmet Zeki Atalay İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Aşağıdağ Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Toki Okçular Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "ÇATAK İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Küçükkaymaz Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "GÜRPINAR ÇOBANLAR İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "GÜMELİ İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Karşıyaka Şehit Mücahit Coşkun Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Kemalettin Can Yaman Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ALAPLI",
+        "ad": "Alaplı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Nihat Kantarcı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Hayriye-Hayrullah Saki Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Mehmet Akif Ersoy Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Hisarönü Seçil Şanlı Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Hisarönü Zübeyde Hanım İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Mimar Sinan Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Muharremşah İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Oktay ve Olcay Yurtbay Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Saltukova Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Şehit Astsubay Salim Uçar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Şehit Astsubay Salim Uçar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Sandallar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Sandallar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Nebioğlu  Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Saltukova Gazi Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Akçahatipler Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Basat İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Nuran ve Celal Gülşen Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Saltukova İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Barbaros Kutlutaş Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Şenköy İnceahmetler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Yukarıtaşçılı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "75.Yıl İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Nebioğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Adaköy İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Sipahiler Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Şehit Hasan Yağlı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Dereköseler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Dereköseler Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Serdaroğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Gemiciler Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Karapınar Galip Güpgüpoğlu Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Ticaret ve Sanayi Odası Fen Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Saltukova Çocuklar Gülsün Diye Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Kayıkçılar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Kayıkçılar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çomranlı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Helvacılar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Karapınar Abdullah Güpgüpoğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Karapınar Abdullah Güpgüpoğlu Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Kerimler Sağıroğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Velioğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Kışla Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Kerimler Boyacıoğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çayır Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çayır İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Coburlar Köyü Mehmet Ali Yılmaz İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Akçahatipler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Burunkaya Şehit Emrah Kartal İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "ÇÖMLEKÇİ İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Hacılar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "İsmail Hakkı Tonguç İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Perşembe Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Yukarıtaşcılı Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Şehit Sacit Olcay Kabaklıoğlu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Perşembe Filiz-Rıfat Güpgüpoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Pehlivanlar Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Filyos Melek ve Ahmet Şanlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Ayça Yazıcıoğlu Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Ayça Yazıcıoğlu Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Şehit Aydın Berber Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Çaycuma Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Şehit Hasan Yağlı Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "ÇAYCUMA",
+        "ad": "Filyos 100.Yıl Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "75.Yıl Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Çaydeğirmeni TOKİ İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Karşıyaka 100. Yıl İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Karşıyaka 100.Yıl Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Misak-ı Milli İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Yazıcık İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Sabahat-Cemil Ulupınar Fen Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Ahmet Taner Kışlalı Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Hamidiye Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Eğerci Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Eğerci İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Kuva-yı Milliye Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Çaydeğirmeni Çok Programlı Anadolu lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Devrek Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "DEVREK",
+        "ad": "Çaydeğirmeni TOKİ Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Çiğdemli İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Çayırlı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Danişmentli İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Şehit Noyan Aydın İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ömerli İsmail Canbaz İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Erdemir İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Uzun Mehmet Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Şehit Metin Çevik İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Şehit Piyade Er Ramazan Erdem İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Gülüç İbrahim İzmirli Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Hamzafakıhlı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Hatice Erdem Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "İsmet İnönü Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "İzmirlioğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Merih Şuğle Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Borsa İstanbul Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kdz. Ereğli Kandilli Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kdz.Ereğli Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kepez İzmirlioğulları Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kışla Mahmut Likoğlu Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Nimet İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ormanlı Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ova Erdemir İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ören İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Sinitli İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Toyfanlı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Zübeyde Hanım Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "TOKİ Korubaşı Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kurtlar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Nurdan ve Ahmet Orhan Oğuz Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kepez Şehit Kader Acar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kurtlar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Zonguldak Ereğli Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Şehit Madenciler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Turgut Reis Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "İhsan Yılmaz İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Şehit Madenciler Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Köseler İbrahim İzmirlioğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Mehmet Ali ve Kadri Yılmaz Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Dikmen İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Nurdan ve Ahmet Orhan Oğuz İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kdz. Ereğli Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Cumhurbaşkanı Süleyman Demirel Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Aydınlar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Soğanlı Yörük İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Armutçuk Madenci İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "TOKİ Korubaşı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Armutçuk Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kızılca İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ormanlı Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ormanlı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kızılcapınar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Üçköy İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Zonguldak Ereğli Erdemir Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Yazıcılar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Yalnızçam İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Abdi İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Terzi İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Yunuslu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Bölücek Kadir-Nevişet Kameroğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Üveyikli İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Elmacı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Cumhurbaşkanı Süleyman Demirel İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Çamlıbel İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Dağlıca Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Dağlıca İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Bayat Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Gülüç Emin Ayhan Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Gülüç Vesile Dikmen İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Pınarcık Yaslar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Bakırlık Çınar Boru İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kdz. Ereğli Saniye Erdoğan Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Hamzafakıhlı Akpınar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Göktepe İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kızılcapınar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "GÜLŞEN UTKU ANAOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Güneşli Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Cumhurbaşkanı Süleyman Demirel İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "KESTANECİ İBRAHİM İZMİRLİ İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "15 Temmuz Şehitleri İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Çayırlı Yüksel Balcı Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Pınarcık Ertuğrulgazi İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Aydın İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Aydın Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Piri Reis Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "İsmet İnönü İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ören Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Pestilci Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kızılca Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Çiğdemli Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Armutçuk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "BAYAT İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "15 Temmuz Şehitleri Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ormanlı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "HASAN VE AYŞE ŞAHİN ANAOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "CEMİLE TATOĞLU ANAOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Fazlı Erdoğan Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kdz. Ereğli Şahinde Hayrettin Yavuz Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Ereğli Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kayabaşı Alemdar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Bölücek Kadir-Nevişet Kameroğlu Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Nurdan ve Ahmet Orhan Oğuz Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kdz.Ereğli Kavaklık ilkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Bahçelievler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Alemdar Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kdz. Ereğli Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "ŞAHİNDE HAYRETTİN YAVUZ BİLİM VE SANAT MERKEZİ ANAOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kayabaşı Alemdar Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Kepez İzmirlioğulları Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "EREĞLİ",
+        "ad": "Zonguldak Kdz. Ereğli Kışla Mahmut Likoğlu Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Bakacakkadı Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Gökçebey Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Gökçebey Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Gökçebey Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Namazgah İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Yeşilköy İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Gökçebey Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Gökçebey Cumhuriyet Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Duhancılar Tütüncüoğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Bakacakkadı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Bakacakkadı Durmuş Demirel Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Karapınar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Şehit Burak Saraçlı Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Hacımusa Herkime Rıfat Hayri Sin Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Muharremler ilkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "BAKİLER İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Tefen İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Gökçebey Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKÇEBEY",
+        "ad": "Gökçebey Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "GÖKCEBEY",
+        "ad": "Tefen Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Gelik İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Türkali İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli Madenciler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Muslu Şehit Salih Tosun İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Çatalağzı Plevne İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Çatalağzı Gaziosmanpaşa İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Göbü Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli 100. Yıl İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Işıkveren Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Yıldız Yavuz Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Yıldız Yavuz Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Ziya Gökalp Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Gelik Ayiçi 100.Yıl Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Başöğretmen Şükrü Yavuz Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Ziya Gökalp İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Şehit İslam Çakar İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Eren Enerji Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "İSMET İNÖNÜ İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Eren Enerji Spor Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Çatalağzı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Gelik Ayiçi 100.Yıl Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KİLİMLİ",
+        "ad": "Kilimli 100. Yıl Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu 19 Mayıs 100. Yıl Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Şehit Yusuf Yelkenci Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Namık Kemal İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Alparslan Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Vali Tevfik Başakar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Cengiz Topel Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Attila İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Cengiz Topel İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Uzungüney İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kızılcakese İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Kocatepe İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Sivriler Şehit Engin Aydın Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Sivriler Şehit Engin Aydın İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Vali Tevfik Başakar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Fatih Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Sivriler Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu 19 Mayıs 100. Yıl İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kargalar Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Gücek İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Esenköy 15 Temmuz İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Esenköy 15 Temmuz Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "Kozlu Atatürk İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "KOZLU",
+        "ad": "KOZLU KILIÇ İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Asma Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Bahçelievler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Beycuma Şehit Polis Çağdaş Arslan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Elvanpazarcık Şehit Göksal Cin İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Erdemir Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Fener Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Fener İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Karaman Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Çelikel Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Merkez Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Mimar Sinan İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Mimar Sinan Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Mithatpaşa İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Murat Kayhan İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Tepebaşı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Karaelmas Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Yeşiltepe Teoman Papila Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zafer İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Prof. Dr. Şaban Teoman Duralı Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Fen Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Yayla Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Murat Kayhan Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Dumlupınar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Arslan Zeki Demirci Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Başöğretmen Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Gazi Mustafa Kemal Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "İbrahim Fikri Anıl Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Borsa İstanbul Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Karaelmas İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "TOBB Uzun Mehmet Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Tasmacı İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Beycuma Şehit Onbaşı Rıfat Köktürk Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Köksal Toptan İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Köksal Toptan Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Dr.Derviş Nihat Arkat İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "467 Evler İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Karaman Amele Birliği Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Karaman Amele Birliği İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Öğretmen Hamza Halit Sülün İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Yayla Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Himmetoğlu İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Kapuz İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Üzülmez Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Arslan Zeki Demirci İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Üzülmez İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Anıl Cömert İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Elvanpazarcık Şehit Göksal Cin Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Keller İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Keller Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "TOBB.Uzunmehmet İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Karapınar İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Dilaver İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Rüzgarlımeşe İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ Yenimahalle Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Uzunmehmet Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Sofular İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Yenimahalle Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Fatih Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Sapça İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Merkez Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "TOKİ YENİMAHALLE İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Hüseyin Girgin İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "FATİH İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Prof. Dr. İlhan Varank Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "KÖROĞLU İLKOKULU"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Gökhan Esen Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Karaman İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Uzunmehmet Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Uzunmehmet Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Tasmacı Çalca İlkokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Saime Toptan Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Olgunlaşma Enstitüsü"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Merkez Millî Eğitim Yayınevi"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Prof.Dr.İlhan Varank Kız Anadolu İmam Hatip Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Dr.Derviş Nihat Arkat Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Zonguldak Anaokulu"
+    },
+    {
+        "il": "ZONGULDAK",
+        "ilçe": "MERKEZ",
+        "ad": "Prof.Dr.Şaban Teoman Duralı Bilim ve Sanat Merkezi Anaokulu"
+    }
+]

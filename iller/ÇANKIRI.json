@@ -1,0 +1,842 @@
+[
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ATKARACALAR",
+        "ad": "Atkaracalar Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ATKARACALAR",
+        "ad": "Şehit Hakkı Çelik Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ATKARACALAR",
+        "ad": "Atkaracalar Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ATKARACALAR",
+        "ad": "Atkaracalar Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ATKARACALAR",
+        "ad": "Çardaklı İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ATKARACALAR",
+        "ad": "Çardaklı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "BAYRAMÖREN",
+        "ad": "Bayramören Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "BAYRAMÖREN",
+        "ad": "Bayramören Nevzat Ayaz Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "BAYRAMÖREN",
+        "ad": "Bayramören Nevzat Ayaz İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "19 Mayıs Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş 80.Yıl Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Atatürk İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Namık Kemal Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Toki İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Toki Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Gaziosmanpaşa İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş 80.Yıl Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ÇERKEŞ",
+        "ad": "Çerkeş Gaziosmanpaşa Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Eldivan 100.Yıl İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Hasan Onat Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Şehit Mustafa Yahya Mertcan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Eldivan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Eldivan Şehit Üsteğmen Yılmaz Gülhan Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Eldivan Öğretmenevi ve ASO"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Kadıoğlu Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ELDİVAN",
+        "ad": "Eldivan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Emel-Oktay Türkoğlu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Şehit Serdal Uyanık Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Şehit Nizamettin Yaman Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Fatih Sultan Mehmet Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Yavuz Sultan Selim Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Atatürk İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ILGAZ",
+        "ad": "Ilgaz Yavuz Sultan Selim İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Kızılırmak Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Kızılırmak Şehit Medet Ekizceli Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Yukarı Alegöz Şehit Adem Ballı İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Kızılırmak Şehit Remzi Aslan İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Kızılırmak Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Kızılırmak Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "TIMARLI İLKOKULU"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "KARALLI İLKOKULU"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Kızılırmak Öğretmenevi ve Akşam Sanat Okulu Müdürlüğü"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KIZILIRMAK",
+        "ad": "Şehit Yalçın Koca İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "Korgun Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "Korgun Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "Şehit Komiser Veysel Çirişlioğlu İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "Korgun Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "Korgun Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "KORGUN ANAOKULU"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "Korgun İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KORGUN",
+        "ad": "Maruf Şehit Eyüp Gönen İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Şehit Aydın Çopur Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Şehit Murat Ustaoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Meslekî ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Şehit Ekrem Aygen İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Şehit Ekrem Aygen Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Tevfik Fikret İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Şehit Teğmen Korhan Kuruçay İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Tevfik Fikret Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "KURŞUNLU",
+        "ad": "Kurşunlu Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "125.Yıl Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Ahmet Talat Onay Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Hacı Murad-ı Veli Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Şehit Hasan Gülhan Cumhuriyet Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı  Hacı Murad-ı Veli İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Vilayetler Birliği Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Selahattin İnal Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Türkiye Odalar ve Borsalar Birliği Fen Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Şehit Mehmet Ata Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Gazi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Dr.Refik Saydam İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Gürhan Titrek Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Hüsniye-Ahmet Akpınar Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "İsmet İnönü Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "İstiklâl Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Nevzat Ayaz Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Nurettin Ok Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Şehit Yusuf Çelik Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Ünür Şehit İlyas Aldağ İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Tüney Şehit Mehmet Demir Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Uğur Hiçyılmaz Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Yahya Coşkuner Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Vali Ayhan Çevik Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Adnan Menderes İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Muazzez Ser-Ved Amaratoğlu Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "M.K.E.Tophane İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Karadayı İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Güneş İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "M.K.E.Tophane Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "İstiklal Yolu İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı 15 Temmuz Şehitler Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Şehit Korhan Kuruçay Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "İlker Tuncay İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Yüksel Kapdan İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "30 Ağustos Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Akçavakıf İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Şehit Erdem Öztürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmetçik Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Hazım Dağlı İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Yücel Karahasan Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Karatekin İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Toki İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Karatekin Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Toki Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Ünür Şehit İlyas Aldağ Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Mareşal Çakmak İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Hasakça İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Mareşal Çakmak Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Tüney Şehit Mehmet Demir İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Ahmet Mecbur Efendi Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Vali Ayhan Çevik Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Vali Ayhan Çevik Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Akşemseddin İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Sultan Mehmet Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "30 Ağustos İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Şehit Ömer Faruk Biçer Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "NASREDDİN HOCA ANAOKULU"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "ŞEHİT HİLMİ BIYIKLI İLKOKULU"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "YUNUS EMRE ORTAOKULU"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı İlgi Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Çankırı Yarenler Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "MERKEZ",
+        "ad": "Hacı Mehmet Üner Kızılay Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Kaymakam Sabahattin Çakır İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Şehit Uhud Kadir Işık Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Kalfat İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Özlü İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Yıldırım Beyazıt Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Orta Şehit Gökhan Topal Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Şehit Erkan Er Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Yaylakent İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "İsmail Nazire Ünal Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Orta Atatürk Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ORTA",
+        "ad": "Dodurga İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Şabanözü Şehit Murat Saraç Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Şehit Yaşar Yasin Kavaklı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Şabanözü Şehit Dilaver Karsavuranoğlu Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Şabanözü Şehitler İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Gürpınar İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Büyükyakalı İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Macide Anne Anaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Gümerdiğin İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Gümerdiğin Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Şabanözü Şehit Murat Somuncu Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "ŞABANÖZÜ",
+        "ad": "Şabanözü  Şehit Serhat Önder İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "YAPRAKLI",
+        "ad": "Yapraklı Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "YAPRAKLI",
+        "ad": "Yapraklı İlkokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "YAPRAKLI",
+        "ad": "Yukarıöz Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "YAPRAKLI",
+        "ad": "Yapraklı Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "YAPRAKLI",
+        "ad": "Yapraklı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "YAPRAKLI",
+        "ad": "Yapraklı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "ÇANKIRI",
+        "ilçe": "YAPRAKLI",
+        "ad": "Yukarıöz İlkokulu"
+    }
+]

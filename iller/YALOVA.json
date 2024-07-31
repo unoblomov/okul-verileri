@@ -1,0 +1,872 @@
+[
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Altınova Bülent Özyürük Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Altınova Hürriyet Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Altınova İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Fatih Sultan Mehmet Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Hacı Ali Saruhan Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Altınova Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Kaytazdere Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Piyalepaşa Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Tokmak İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Vakıfbank İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Yalova Altınova Tersane Girişimcileri A.Ş. Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Tavşanlı Şehitlik İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Piyalepaşa İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Tavşanlı Şehitlik Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Tokmak Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Fatih Sultan Mehmet İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Piyalepaşa Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Hacı Ali Saruhan İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Geyikdere Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Kaytazdere Tetaş Tekstil İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Kaytazdere Tetaş Tekstil Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Subaşı İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Subaşı Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Altınova Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "Ayhan Cahit Gülan Kızılay Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ALTINOVA",
+        "ad": "İbrahim Nuh Paksu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Armutlu Dr. Enver Ören Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Armutlu Vilayetler Birliği Hafize Sakız Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Armutlu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Tanşu Aksoy Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "15 Temmuz İstiklal İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Kapaklı Tülay İlgen İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Fıstıklı Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Kapaklı Tülay İlgen Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Fıstıklı İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Dursun Dumangöz Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Armutlu Avukat Necati Toker İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ARMUTLU",
+        "ad": "Armutlu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Aksa Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Çiftlikköy Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Şehit Abdülhamit Kaya İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Çiftlikköy Mustafa Kemal Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Şehit Ömer Halisdemir Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Çiftlikköy Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Çiftlikköy Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Mehmet Akif İnan Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Taşköprü Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Kılıç Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Ragıp Naile Saraç Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Giyim Sanayicileri Derneği Eğitim Vakfı Çiftlikköy İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Gazi Abdurrahman İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Kılıç İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "75.Yıl Namık Kemal İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "75.Yıl Namık Kemal Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Taşköprü İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Sultaniye Şehit Baçerettin Özgür İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Ruhsar Aksoy İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Şehit Muhammed İslam Altuğ Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Şehit Talha Bahadır Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Taşköprü Belediyesi Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Gazi Abdurrahman Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇİFTLİKKÖY",
+        "ad": "Çiftlikköy Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Gazi Mustafa Kemal Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Gülkent Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Kocadere Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Koruköy İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık Füruzan Kınal İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık Füruzan Kınal Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Teşvikiye Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Teşvikiye Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Esenköy Adnan Kaptan İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Esenköy Adnan Kaptan Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çiçek Yuvası Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Gülkent İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Kocadere İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Koruköy Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Hüdaverdi Aydın İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Hüdaverdi Aydın Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Çınarcık Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "ÇINARCIK",
+        "ad": "Yalova Esenköy Hizmetiçi Eğitim Enstitüsü ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "700.Yıl Osmangazi Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Şaban Temuge Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Aydede Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Abdülhamid Han Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Sabri Ekşinozlugil Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "İsmetpaşa Mazlum Palabıyık İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Nene Hatun Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Hayme Hatun Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "TOBB Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Zübeyde Hanım Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Mareşal Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Osman Altınkuyu Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Müfettiş Hamdi Girgin İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "75.Yıl Ziya Gökalp İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Samanlı Rebia Şenavcen Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Gaziosmanpaşa İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Nadide Üstündağ Yıldırım Özel Eğitim İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Sultan Mehmet Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Samanlı İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Kadıköy İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Nadide Üstündağ Yıldırım Özel Eğitim Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Adnan Menderes Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Bahçelievler İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Kardelen Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Kardelen İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Elmalık Salim Delen Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Elmalık Salim Delen İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Sercan Yazar Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Orgeneral Selahattin Risalet Demircioğlu Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Rahmi Tokay Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Saffet Çam Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova-Termal Fen Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Hüseyin Alkaş İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Safran Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmen Yusuf Ziya İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Esvet Sabri Aytaşman Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Rahmi Tokay İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Safran İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "İsmetpaşa Mazlum Palabıyık Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Sevim Göğez Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Sugören İsmet Koçhan İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Sugören İsmet Koçhan Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Kurtköy İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "700.Yıl Osmangazi İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Alime Paşa Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Alime Paşa Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Alime Paşa Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Mevlana İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Necmettin Erbakan Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Ahmet Uzun Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "19 Temmuz İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Rahmiye Palabıyık İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Zeynep Sağır Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Kübra Doğanay İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Hafız İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Prof. Dr. Halil İnalcık Anadolu Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Kirazlı Orhun Üstel İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Zehra Ekşinozlugil Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Vehice Turna Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Gaziosmanpaşa Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Müfettiş Hamdi Girgin Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Mareşal Fevzi Çakmak Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Nadide Üstündağ Yıldırım Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Yalova İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "Suzan Tuna İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "MERKEZ",
+        "ad": "100. Yıl Bahçelievler Anaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Akköy Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Termal Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Termal İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Termal Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Yenimahalle Enver Üstün İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Yenimahalle Gümüşdere Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Akköy İlkokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Termal İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "YALOVA",
+        "ilçe": "TERMAL",
+        "ad": "Üvezpınar İlkokulu"
+    }
+]

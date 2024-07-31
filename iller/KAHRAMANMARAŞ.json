@@ -1,0 +1,5112 @@
+[
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Fen Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Eshab-ı Kehf Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Merkez Fatih Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şifa Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Altunelma Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Arıtaş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Arıtaş Öztürk Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Büyüktatlı Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Çobanbeyli Şehit Fedai Söyler Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Dağlıca Şehit Hakan Çil İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Kemal Pıçak Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Dinçer Akkaya Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Nafiz Güneşli Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Mustafa Kemal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Namık Kemal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Tanır Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Yavuz Selim İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Çobanbeyli Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Nadır Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Nadır İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Aşık Mahzuni Şerif Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Esence Şehit Yılmaz Güneş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Esence Şehit Yılmaz Güneş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Turgay Ciner Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Çobanbeyli Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşinbey İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Bakraç Şehit İlhan Karakaya Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Hayati Vasfi TAŞYÜREK Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Sevin Fatih Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Karagöz Şehit İbrahim Bozkurt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Erçene Şehit Meksen Kebabcı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Efsus İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Sevin Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Hüyüklü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Hüyüklü Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Küçüktatlar Deniz Feneri Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Küçüktatlar Deniz Feneri İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Cuma Çelik Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Necip Fazıl Kısakürek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Çobanbeyli Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Teaş İstiklal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Teaş İstiklal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Merkez Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Hamza Yıldız İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Altunelma Şehit Ömer Erüstün İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Altunelma Şehit Ömer Erüstün Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Toki Eshab-ı Kehf Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Toki Eshab-ı Kehf İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Gaziosmanpaşa İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Başüstü Şehit İbrahim Akkuş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Altaş Şehit İsa Çağlar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Altaş Şehit Yaşar Özdemir İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Çoğulhan Şehit Yusuf Çiçek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Tanır Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Tanır Şehit Sıtkı Çoban Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Tanır Şehit Sıtkı Çoban İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Çoğulhan Şehit Yusuf Çiçek Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Ördek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Arıtaş Şehit Mehmet Gülden İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Erçene Şehit Meksen Kebabcı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Büyüktatlı Şehit Ali Bektaş Bayır İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Büyüktatlı Şehit Ali Bektaş Bayır Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Kabaağaç Şehit Durmuş Polat İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Kabaağaç Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Bakraç Şehit İlhan Karakaya İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Alemdar Şehit Ömer Eren İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Dağlıca Şehit Hakan Çil Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "EMİRLİ İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Yazıdere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Emirilyas İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Kuşkayası Şehit Nazmi Yılmaz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Bünyamin Topaktaş Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Koçovası Eşe ve Yusuf Gülkaynak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "ORTAKLI ATATÜRK İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Mustafa Kalfe Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Ertuğrul Gazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin 100. Yıl Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Şehit Hüseyin Utku Gülbahar Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Hakan Akyar Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Şehit Mustafa Mengeç Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Kabaağaç Yeniköy Şehit Mesut Polat İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Ortaklı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin 100. Yıl Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Çoğulhan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Lavanta Çiçeği Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Tanır Şehit Mevlüt Çetinkaya Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Arıtaş Öztürk Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "AFŞİN",
+        "ad": "Afşin Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Akifiye Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Tacettin Çeribaş Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Boğazören Taşoluk Işıkdibi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Mustafa Gökçeli Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Darıovası Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Hakan Taşgıt Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Rıfatiye İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Rifatiye Şehit Emre Mücahit Topal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Yasin Höbek Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Akifiye İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Torun Kastal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Yeşilova Tufanpaşa İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Tufanpaşa İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Kumarlı Şehit Orhan Gök İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Boğazören Şehit Nurettin Arslan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Çiçekli Şehit Ahmet Bekar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Darıovası Doburlu Şh.Zübeyir Çınkır Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Çiçekli Şehit Ahmet Bekar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Anacık Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Kızık Şh.Atilla Kurt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Bektaşlı Şehit Osman Gül Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Erdal Kama Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Erdal Kama İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Numan Öksüz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Mehmet Ali Zengin Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Karayolları Bakımevi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Altınyayla Şehit Ebubekir Sel Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Altınyayla Şehit Ebubekir Sel İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Geben Şh.Ütgm Ahmet Boz. Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Andırın Şehit Ethem Hacımahmutoğlu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "GEBEN YUNUS EMRE İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Mustafa Dobur İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Geben Şehit Ramazan Avcı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Karayolları Bakımevi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Şehit Adem Seyfioğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ANDIRIN",
+        "ad": "Andırın Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Ömer Halisdemir Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit 80. Yıl Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Düzbağ Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Düzbağ Kasabası Yeşiloba Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Düzbağ Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Düzbağ Kasabası Yeşiloba İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Şehit Fatih Güngör İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Kaleköy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Küçükcerit İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Oruçpınarı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Helete Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Soğukpınar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Soğukpınar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Bozlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Bozlar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Küçükcerit Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Oruçpınarı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Boylu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "İstiklal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "AKSU İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "AKSU ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Akdere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLAYANCERİT",
+        "ad": "Çağlayancerit Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLIYANCERİT",
+        "ad": "Engizek Şehit Nurdoğan Zorgün İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ÇAĞLIYANCERİT",
+        "ad": "Şehit Orhan Sürmen Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "100.Yıl Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "5 Nisan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Sevim Şirikci Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Arslanbey Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Gazipaşa Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Başdervişli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Baydemirli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Çınarlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Mehmet Afşar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Gülbahar Hatun Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Yaşar Gölcü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kadriye Çalık Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Nuri Pakdil Bilim Ve Sanat Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kahramanmaraş Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacasu Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kurtuluş İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Mehmet Gümüşer Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Nene Hatun Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Şehit Öğretmenler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Vilayetler Hizmet Birliği Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Yahya Kemal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Ziya Gökalp İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Rıdvan Hoca İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Hacı Mehmet Kalay Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Elmalar Şehit Cihan Karabörk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Elmalar Şehit Cihan Karabörk ilkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Genç Osman İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Genç Osman Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Göllü Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Şehit Mıllış Nuri İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "İstasyon İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Süleyman Şah İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Erkenez Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Güzelyurt Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dulkadiroğlu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Bağlarbaşı İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Hoca Ahmet Yesevi Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Fatih Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Saadet Arifioğlu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacasu Vali Saim Çotur Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Borsa İstanbul Doğukent Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Beylerbeyi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Ağabeyli Şehit Mehmet Demir İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dereköy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Güzelyurt Nacarlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Güzelyurt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Çatmayayla Köyü Yusuf Kökünüz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kapıçam İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Çınarlı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Peynirdere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Budaklı Köseler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kahramanmaraş Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Baydemirli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Şerefoğlu Uzunkışla İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Turan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kayabaşı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Sütçü İmam Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "TOKİ Duran Karabuğaş Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Osmanbey Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Osmanbey İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Muhammed Fatih Safitürk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Baydemirli Başpınar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Sarıkaya İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Yavuz Selim Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dulkadiroğlu Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kahramanmaraş Dulkadiroğlu Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Sevgi Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Reşit Gümüşer İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kahramanmaraş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacasu Deliköle İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Başdervişli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Bulanık Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dulkadiroğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacasu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Çakmakçı Sait Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Beylerbeyi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Şehit Hanifi Çakallıoğlu Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Doğukent Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Beşenli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Beşenli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Gökkuşağı Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Atilla Vural Tevekkeli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kanuni Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "12 Şubat İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Ayaklıcaoluk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Ayaklıcaoluk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Büyükşehir Belediyesi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Baydemirli Boybeyli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Hacı Osman Arıkan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Hacı Osman Arıkan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dereli Köyü Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dereli Şehit Bilal Akgün İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "SÜMER ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Keriman Çetinkaya Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "TOKİ Kazımkarabekir Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "TOKİ Yıldız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Deniz Bitmiş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "KEMALLİ ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Baydemirli Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "BAYDEMİRLİ SERİNYOL İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Eskinarlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Aksu Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacaoğlan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacaoğlan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Aksu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "TOKİ 21. Yüzyıl Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "ŞEREFOĞLU  ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "ŞEREFOĞLU  İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kartal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Malik Ejder İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "HAFIZ ALİ EFENDİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Sultan Bayazıt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Çatmayayla Ümmetler Obası İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "ÇATMAYAYLA KURTOĞLU İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Doğukent İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kanuni İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "BARINMA MERKEZİ İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Barınma Merkezi Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dulkadiroğlu Kapıçam Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kapıçam Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "BULANIK İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kahramanmaraş Olgunlaşma Enstitüsü"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dulkadiroğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Doğukent Sultan Alparslan Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Şehit Orhan Sürmen İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Ömer bin Abdulaziz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "BARINMA MERKEZİ İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Türkiye Yardım Sevenler Derneği Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Abdülhamit Han Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Anakucağı Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Muhsin Yazıcıoğlu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dulkadiroğlu Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Kamu Külliyesi Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Gazipaşa İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Güzelyurt Nacarlar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Nurettin Topçu Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Toğuzata İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Tenzile Erdoğan Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karşıyaka 15 Temmuz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Melek Kaya Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Melek Kaya Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Melek Kaya Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Nuri Pakdil Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Gazipaşa Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Elmalar Şehit Ahmet Dokuyucu Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Muhsin Yazıcıoğlu Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Dulkadiroğlu Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacasu Ferhuş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Karacasu Ferhuş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Necip Fazıl Konteyner Kent İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Necip Fazıl Konteyner Kent Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Havaalanı Konteyner Kent İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Havaalanı Konteyner Kent Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Umut Konteyner Kent İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Ülkü Konteyner Kent İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Umut Konteyner Kent Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Ülkü Konteyner Kent Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Sultan Bayazıt Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "DULKADİROĞLU",
+        "ad": "Başdervişli Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Şehit Öğretmen Nurettin Arslan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü İlk Adım Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Abdurrahim Karakoç İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Şehit Öğretmen Nurettin Arslan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Soysallı Enerji SA Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Şehit Öğretmen Aydın Yılmaz Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Şehit Öğretmen Hacı Ömer Serin Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Şehit Öğretmen Hacı Ömer Serin İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Şehit Öğretmen Aydın Yılmaz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Soysallı Enerji SA İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Zübeyde Hanım Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "EKİNÖZÜ",
+        "ad": "Ekinözü Öğretmenevi ve ASO"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Akbayır Şehit Yusuf Kaya İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Akören Şehit Hüseyin Emre Kul İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Çatova İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Çatova Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Demircilik Şehit Ali Tolga Ocak Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Dogan Sitesi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Doğanköy Şehit Uğur Kartal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Dulkadiroğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Akşemsettin Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Yavuz Selim Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Ertuğrulgazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Kalealtı Köyü Haluk Gökalp Kılınç İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karaelbistan Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karaelbistan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Mükrimin Halil Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Sevgi Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şeker Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şh.Er.Ali Beyaz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şh.Er.Ali Beyaz Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Taşburun İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Toki Şehit Jandarma Er Levent Kuşoğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Gazi Mustafa Kemal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Büyükyapalak Şehit Mahmut Çifci Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Hacı Bektaş Veli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Izgın Şehit Ahmet Ece İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Alembey Hasan Hüseyin Köseoğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Dogan Sitesi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şehit İsrafil Kargı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Battal Gazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Ambarcik İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Taşburun Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Demircilik İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Yapraklı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karaelbistan Şehit Mevlüt Yıldız İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Ambarcik Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Esentepe Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karamağra İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Balıkçıl İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Abdurrahim Karakoç Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Geçit Şehit Mevlüt Yalçınkaya Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Çiçek Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Çiçek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Izgın Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Tepebaşı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Kara Elbistan Osman Gazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Hoca Ahmet Yesevi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karamağra Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Yunus Emre İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Ali Tekinsoy Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Gücük İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Doğanköy Şehit Uğur Kartal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Kalealtı Köyü Haluk Gökalp Kılınç Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karaelbistan Şefkat Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şh. Tğm. Harun Kılıç Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Güvercinlik İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Yapraklı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Güvercinlik Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Türkören Hasan Erdoğan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Afşin Elbistan Linyitleri İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Türkören Hasan Erdoğan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Gazipaşa İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Kara Elbistan Osman Gazi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Çalış İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Geçit Şehit Mevlüt Yalçınkaya İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Akbayır Şehit Yusuf Kaya Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Gücük Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Kümbet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karahüyük İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Dağdere Malatça İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Alembey Hasan Hüseyin Köseoğlu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Şehit Er Cuma Potuk Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Büyükyapalak Şehit Mahmut Çifci İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karahasanuşağı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Evcihüyük Şekerbank İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karahasanuşağı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Kışla İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Papatyam Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Gündere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Borsa İstanbul Fen Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şehit Abdullah Tayyip Olçok Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "İğde Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Selçuklu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Selçuklu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şehit Kemal Özdoğan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "15 Temmuz Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Yeşilyurt Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şehit Naci Soydan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Karahüyük Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Borsa İstanbul Gazi Mustafa Kemal Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Güneşli Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şehit Hüseyin Emre Kul Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şehit Kamil Topal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "İbrahim Nuh Paksu Kızılay Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Şehit Ali Tolga Ocak Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Toki Şehit Jandarma Er Levent Kuşoğlu Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Elbistan Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ELBİSTAN",
+        "ad": "Kuzey Marmara Otoyolu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Bozhüyük Şehit Samet Karslı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Çardak Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Fen Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Şehit Selahattin Bağrıaçık Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Ericek Prof.Dr.Mehmet Sağlam Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Şehitler Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Nevzat Pakdil Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "İstiklal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Kanlıkavak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Kanlıkavak Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Pr. Dr. Mehmet SAĞLAM Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Turna Bucağı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Turna Bucağı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Değirmendere Prof. Dr. Mehmet Sağlam Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Esenköy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Bozhüyük İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Büyükkızılcık Şehit Bayram Kocabaş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Büyükkızılcık İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Büyükkızılcık Apıklar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Selçuklu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Karadut İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Karadut Bahçe İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Kazandere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Kaleboynu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Büyükkızılcık Güller Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Taşoluk Şehit Murat Yıldırım Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Çardak Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Kanlıkavak Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Karadut Ağıl İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Fındıklıkoyak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Kavşut İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Esenköy Bozarmutlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Çardak Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Çardak Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Nevzat Pakdil İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Tombak Şehit Mehmet Bozgurt Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Çardak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Büyükkızılcık Güller İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Taşoluk Şehit Murat Yıldırım İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Yavuz Selim Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Bozhüyük Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Ericek Şehit Elhas Esendere Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Ericek Şehit Elhas Esendere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Yunus Emre İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Tombak Şehit Osman Sarıca İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Esenköy Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Karaömer İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Değirmendere Prof. Dr. Mehmet Sağlam İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "TOMBAK ANAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Şehit Ali Özdemir Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Büyükkızılcık Çok programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Büyükkızılcık Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun 15 Temmuz Şehitler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Arslanbey Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Ericek Müdürler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Aşağıkınıkkoz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Ericek Prof. Dr. Mehmet Sağlam Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Şehit Cesur Ayar Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Büyükkızılcık Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Karadut Dağobası İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Cumhuriyet Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Göksun Cumhuriyet Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "GÖKSUN",
+        "ad": "Çardak Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Barış İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Nurhak Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Nurhak Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Nurhak Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Nurhak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Kullar Süleyman Şahin İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Kullar Süleyman Şahin Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Barış Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Karaçar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Karaçar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Tatlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Tatlar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Nurhak Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Cumhuriyet Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "15 Temmuz Şehitleri İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "NURHAK",
+        "ad": "Nurhak Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "19 Mayıs Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sezai Karakoç İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ali Galip Çalık Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Binevler Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Bulutoğlu Şehit İrfan Karabıçak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Bulutoğlu Şehit İrfan Karabıçak Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Büyüksır Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Nuri Pakdil Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Dereboğazı Kadılı Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Döngele Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Döngele Şehit İdris Çam İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Erdem Bayazıt Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Mehmet Yavşan Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatmalı Yeşilkent İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hartlap Şehit Mehmet Demir Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hasancıklı Erkunt Traktör İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ilıca Şehit Bekir GÜNDEŞ Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ilıca İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "İbrahim Çalık Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "İsmail Kurtul İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Boğaziçi Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Nezihe Öksüz Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kale Karataş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kızıldamlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kürtül Celilli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Merkez Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Mükrime Hatun Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Mado Akdeniz Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Önsen Şehit Ökkeş Korkmaz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Önsen Şehit Ökkeş Korkmaz Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Vali Hilmi Tolun Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Piri Reis Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sadıklı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Senem Ayşe Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Onikişubat Suzan ve Abdulhakim Bilgili Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Süha Erler Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şevket Bulut İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Tekir Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Tekir İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Altınşehir Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ticaret ve Sanayi Odası Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Türkan Özge Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Zekeriya Tanrıverdi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Binevler Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ayşe Gümüşer İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Rasim Özdenören İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Suçatı Şehit Eyüp Saz Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Suçatı Şehit Eyüp Saz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Karadere Harmancık Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Mareşal Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Gazi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacıveliler Yeşilgöz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kavlaklı Hasan Gökçe Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatmalı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hasan ve Zehra Tıraş Vakfı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Soner Enes Baykuş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Süleymanlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Süleymanlı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Dadağlı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Fındıcak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Necip Fazıl Kısakürek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Akçakoyunlu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kumarlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kumarlı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Köseli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Gülizar-Şamil Aktaş Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Sultan Mehmet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Abdurrahim Karakoç Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Tekir  Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Fatih Gök İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Dumlupınar Şehit Haşim Yenigül Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Muallim Hayrullah Efendi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "MADO Kadriye Kanbur İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ayser Çalık Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sergentepe İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Evliya İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Gökçemağara Paşalar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatmalı Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kurtlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatmalı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hartlap Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacı İbrahimuşağı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacılar Lomlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Bağrıaçık İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Bağrıaçık Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Cüceli Sevim Silahlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Bahçelievler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kümperli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kümperli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Döngele Durdular İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatmalı Yeşilkent Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sarıçukur İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Zeytindere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Zeytindere Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "125.Yıl Özel Eğitim İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Selimiye Şehit Mehmet Fedakar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "125.Yıl Özel Eğitim Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ahmet Bayazıt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hasancıklı Erkunt Traktör Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "125.Yıl Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Selimiye Şehit Mehmet Fedakar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Sultan Mehmet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Bahçelievler Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Soner Enes Baykuş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kürtül Celilli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sadıklı Yusuflar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çukurhisar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Yusuf Çavuş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hartlap İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Cüceli Sevim Silahlı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çukurhisar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Karadere Harmancık İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Fatih Şekkeli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Altınova Şehit Bayram Demirci Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Orhangazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şahinkayası İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kürtül Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kürtül İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şahinkayası Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kızılseki Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kızılseki İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Suluyayla Şehit Fatih Demir  İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Dadağlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çamlıbel Karaçalılık Köyü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ilıca Yeniyapan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ali Sezai Efendi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Fatih Saylak Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Yeşilkent Şehit Erdoğan Korkmaz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Zeki Karakız Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Yeşilkent Şehit Erdoğan Korkmaz Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Büyüksır İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kavlaklı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şevket Bulut Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacılar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Mimar Sinan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Muratlı Hıdırlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Suluyayla Şehit Fatih Demir Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacılar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Süreyya Güneş Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Süleyman Demirel İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Fatih Saylak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Fen Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Altınova Şehit Bayram Demirci İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hasan ve Zehra Tıraş Vakfı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Akedaş Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Akedaş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Döngel Muhsin Yazıcıoğlu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit İdari Ataşe Galip Özmen Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Döngel Muhsin Yazıcıoğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Bulutoğlu İbrahim Çalık İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacınınoğlu Engizek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sarıgüzel Çakı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Yeniyapan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Döngele Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacıveliler Yeşilgöz Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ertuğrulgazi Görme Engelliler Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Batıpark Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çevrepınar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çevrepınar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Türk Telekom Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacı Bayram Veli İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çağırgan Kikiler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kılavuzlu Abdülgani Seyithanoğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kılavuzlu Abdülgani Seyithanoğlu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çukurova Elektrik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Avcılar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Cahit Zarifoğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Ahmet Gülbahar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çamlıbel Uğrak Şehit Cengiz Engizek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Önsen Şehit Ahmet Altun Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Adil Karaküçük İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Öşlü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kertmen Köyü Tilkiler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Dumlupınar Şehit Haşim Yenigül İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çağırgan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hasan Balcı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Serhan Çalık Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çiğdem Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şirinler Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Barbaros İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "ÖMER FARUK ARIKAN ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "İsmailli Göcek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sarıgüzel Köyü Ali KOCA Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sarıgüzel Köyü Ali KOCA İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "KOCATEPE İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Hüseyin Sarı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehitler Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehitler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kahramanmaraş Spor Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "ÖNSEN YEŞİLYURT  ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Önsen Yeşilyurt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Altınova Çiçek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "ATINOVA ÇİÇEK ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ilıca Yeniyapan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Tekir Kısık İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sümbüllü Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Cumhuriyet Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kale Şehit Ökkeş Karaca İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Arif Balduk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "ALİ GALİP ÇALIK İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Beşen İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Yıldırım Bayazıt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "ALTINOVA SÖKÜNBURNU İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Menekşe Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çağlayan Çataloluk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "KERVAN PASTANESİ TURGUT PEKEL İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Dereboğazı Kadılı Atatürk Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "İklime Hatun Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kalekaya İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacıbudak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Mevlana İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "KAHRAMANMARAŞ TOBB FEN LİSESİ"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kavlaklı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Abdullah Çinkay Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Mehmet Akif İnan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "SAÇAKLIZADE İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "BAHAETTİN KARAKOÇ İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ökkaş GÜMÜŞER Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Onikişubat Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Akşemseddin Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Osman Açıkgöz İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Onikişubat Belediyesi Ilıca İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Necmettin Erbakan Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "15 Temmuz Şehitler İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Molla Gürani İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Tenzile Erdoğan Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Erol Olçok Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Rabia Arıkan İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Ömer Halisdemir İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "HABİBE GÜMÜŞER ANAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Aziz Sancar Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Boğaziçi Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kale Şehit Abdullah Tayyip Olçok Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Köseli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit İlhan Güleç Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Milli İrade Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çağlayan Çataloluk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Erenler İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Döngele Şehit Hüseyin Çam İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sarıgüzel Kuzdere İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Beşoluk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ertuğrulgazi Görme Engelliler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Maksutlu Dönükler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Maksutlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kalekaya Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Çokran Bunsuz İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Esin Ergün Bodur İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Onikişubat Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Serkan Yılmaz Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Maarif Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Ali Rıza İşbilir Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Akif Akçadağ Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Tebernuş Özler Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Ömer Faruk Sayıl İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Cemil Kaçmaz Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Osmangazi Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Üngüt Şehit Ahmet Unkun İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Onikişubat Nevin Gümüşer Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Onikişubat Belediyesi Tekir Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hürriyet Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Ahmet Akdal Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Osmangazi Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Beşen Demirkapı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Tekir Alaçayır İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Yeniköy İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacınınoğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kozcağız İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Hacıbudak Katırcılar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sarıgüzel Bademli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kertmen İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Ahmet Bayazıt Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Bahaettin Karakoç Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Şehit Ali Rıza İşbilir Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Dumlupınar Şehit Haşim Yenigül Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Cahit Zarifoğlu Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Onikişubat Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Sebahat Sungur Kızılay Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "ONİKİŞUBAT",
+        "ad": "Kavlaklı Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Cengiz Topel İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Çimko Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Evri Osman Gazi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Evri Pınarbaşı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Kipaş Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Aksu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Tetirlik İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Tetirlik Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yavuz Selim Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Ufacıklı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Ufacıklı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık İstiklal Halil Arık Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Mehmet Akif Ersoy Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Çimko İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Eğrice İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yumaklıcerit İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "15 Temmuz Şehitleri İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Evri Pınarbaşı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yatılı Bölge Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yumaklıcerit Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Ulubahçe Şehit Ahmet Yumrutaş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Evri Osman Gazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Şahintepe Beyleruşağı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Salmanlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Çiğdemtepe Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Çiğdemtepe İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Sakarkaya Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Beşçeşme İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Sakarkaya İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Sultanlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Mezra İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Narlı 26 Ocak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Taşdemir İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Çimko İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Beşçeşme Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Büyüknacar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Aşağı Mülk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yukarımülk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yiğitler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Sarıl İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Eğrice Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Büyüknacar Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Şahintepe Köyü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Büyüknacar Gücük İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Hürriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Narlı 26 Ocak Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Şallıuşağı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yukarı Höcüklü Elifler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Kuzkent İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Sadakalar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Göynük İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Yukarıhöcüklü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Kadıncık İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Karagöl Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Karagöl İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Çöçelli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Sarıl Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Fen Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Hürriyet Payamlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Gelişim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Pazarcık Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "UNICEF İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "UNICEF Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "6 Şubat İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "6 Şubat Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Ehli Beyt İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "PAZARCIK",
+        "ad": "Ehli Beyt Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu Kemalpaşa İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Hacıbebek İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kılılı Turan Hazinedaroğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şehit Polis Ali Akçiçek Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şekeroba Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Turgut Reis Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Uzunsöğüt Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yavuzlar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Küçük İmalı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Nazlı Balduk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kılılı Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Hacıbebek Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Küçük İmalı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şehit Niyazi Ergüven İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu Yukarı Sarılar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Çakallı Hasanağa İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kırmakaya Şehit Ali Evran İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Ceceli İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Ceceli Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Hopurlu Şehit Eyüp Geyik İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Hopurlu Şehit Eyüp Geyik Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre Karauşağı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre Şehit Ahmet Nar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Akçalı Şehit Piyade Üstçavuş Ahmet Tündü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Dedeler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yolderesi Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yolderesi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Dedeler Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Akçalı Şehit Piyade Üstçavuş Ahmet Tündü Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şekeroba Numuneevler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Göllühüyük Körkocalar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şekeroba İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Gaziosmanpaşa Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Seyyid Battal Gazi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Murat Çakıroğlu İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Minehüyük İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yıldızkent Şehit Şeref Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kadıoğlu Çiftliği İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kadıoğlu Çiftliği Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kızıleniş İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Avşarlı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Avşarlı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Büyükimalı Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Büyükimalı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre Fakılar Şehit Erkan İmalı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yavuz Selim Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu Şehit Abuzer Doğan İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Aydınkavak İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şehitler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu Karalar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Önsen Hopuru İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu İnönü İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şekeroba Fatih İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Önsen Hopuru Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Çobantepe Şehit Sezer ALTUN İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Doluca Şehit Ali Can İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "DOLUCA ŞEHİT ALİ CAN ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yeşilyöre Demirciler İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Uzunsöğüt Şehit İbrahim Bağcı İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Çakallı Hasanağa Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu Şehit Abuzer Doğan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Yenipınar İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Balsuyu Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Atatürk İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şehitler Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kayı Boyu Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "MURAT ÇAKIROĞLU ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "ŞEKEROBA İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "ERTUĞRUL GAZİ İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "SULTAN ALPARSLAN İLKOKULU"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "OSMAN GAZİ ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Durdu Tansel İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "YEDİ GÜZEL ADAM ANADOLU İMAM HATİP LİSESİ"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kılılı Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kaledibi İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şehit Niyazi Ergüven Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Kırmakaya Şehit Ali Evran Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Sultan Alparslan Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Şekeroba Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Adalet Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Adnan Menderes Anadolu Lisesi"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Nene Hatun Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Beyoğlu Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Lojistik Konteyner Kent İlkokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Lojistik Konteyner Kent Ortaokulu"
+    },
+    {
+        "il": "KAHRAMANMARAŞ",
+        "ilçe": "TÜRKOĞLU",
+        "ad": "Türkoğlu Mesleki Eğitim Merkezi"
+    }
+]

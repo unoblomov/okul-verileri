@@ -1,0 +1,2437 @@
+[
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "İstanbul Ticaret Odası Şehit Süleyman Turan Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Şehit Polis Elvan Özbay Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Çayırbaşı Şehit Yaşar Çakır İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Çayırbaşı Şehit Yaşar Çakır Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Gökçeler İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Altıntaş Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Altıntaş Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Sevdiğin İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Şehit Mehmet Genç İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Zafertepe Çalköy Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Zafer İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Zafertepe Çalköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "İstiklal İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Mustafa Kemal Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Yalnızsaray İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Altıntaş Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Eymir İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Yeşilyurt İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Sancaktar İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Sevdiğin Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Akçaköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Üçhüyük İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ALTINTAŞ",
+        "ad": "Yolçatı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Adaköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Aslanapa Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Aslanapa Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Aslıhanlar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Aslanapa Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Haydarlar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Aslanapa İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Aslanapa Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Ortaca İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Ören İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Ören Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Aslanapa İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Tokul İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Ortaca Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Çalköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ASLANAPA",
+        "ad": "Nuhören İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ÇAVDARHİSAR",
+        "ad": "100. Yıl İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ÇAVDARHİSAR",
+        "ad": "Çavdarhisar Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ÇAVDARHİSAR",
+        "ad": "Çavdarhisar Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ÇAVDARHİSAR",
+        "ad": "Şehit Sabahattin Şenkal Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ÇAVDARHİSAR",
+        "ad": "Çavdarhisar Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ÇAVDARHİSAR",
+        "ad": "İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Domaniç Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Domaniç Devlet Ana Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Domaniç Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Domaniç Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Karaköy Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Muratlı Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Çamlıca Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Çukurca Şehit Veli Selçuk Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Çamlıca İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Karaköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Domaniç Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Muratlı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Hisar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Çukurca Şehit Veli Selçuk İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Ilıcaksu İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Vakıfbank 50. Yıl Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Vakıfbank 50. Yıl İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Domaniç Şehit Ömer Halisdemir Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Domaniç Şehit Muhammed Fatih Safitürk İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DOMANİÇ",
+        "ad": "Fıranlar Köyü İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DUMLUPINAR",
+        "ad": "Dumlupınar Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DUMLUPINAR",
+        "ad": "Dumlupınar Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DUMLUPINAR",
+        "ad": "Başkomutan Mustafa Kemal Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DUMLUPINAR",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "DUMLUPINAR",
+        "ad": "Dumlupınar 100. Yıl Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "3 Eylül İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Emet Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Gazi Emet Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Cevizdere Şehitleri Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Emet Gülten Dayıoğlu Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Şehit Mustafa Baş Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Yunus Emre İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Günlüce Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Emet Şehit Ahmet Refik Alp Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Örencik Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Gazikemal İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Günlüce Şehit Adem Çağlayan İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Gazi Emet İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Gazi Emet Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Gürpınar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Emet Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Yenice İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Ashaboğlu Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Kayıköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Örencik İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Yarış İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Şehit Hasan Ali Soysal Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "MEHMET AKİF ERSOY ORTAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Kırgıl Köyü İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Göncek Köyü İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "EMET",
+        "ad": "Çerte İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Fahrettin Altay İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Fırdan Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gazi İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Evliya Çelebi Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Yunus Emre Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Fen Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Şehit Hüseyin Gürlekli Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gümele Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Kurtuluş İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Mehmetcik Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Mustafa Necip Alayeli Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Zafer İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Türkiye Odalar ve Borsalar Birliği Erdoğmuş Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "1 Eylül İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Umurbey Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Yenikent Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Hacı Fatma Çoban İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gölcük Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Erdoğmuş Şehit Ramazan Demirci İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Dayınlar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gölcük İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gökler Şehit Ali Kazankaya İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Üzümlü İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Akkaya İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Altınkent İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Altınkent Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Üzümlü Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Yenigüney İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Yunuslar Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Yunuslar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gümele İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Hacı Fatma Çoban Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Hayme Ana Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Fırdan İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "GÜMÜŞLÜ İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Yenikent İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "GÖYNÜKÖREN İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "AKSAKLAR İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "15 TEMMUZ ŞEHİTLERİ ÖZEL EĞİTİM UYGULAMA MERKEZİ II. KADEME"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Umurbey İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "GEDİZ BİLİM VE SANAT MERKEZİ"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "15 Temmuz Şehitleri Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "15 Temmuz Şehitleri Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Gediz Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Saz Köyü İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Kurtuluş Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Zafer Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "GEDİZ",
+        "ad": "Dayınlar Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Hisarcık Şehitler Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Hisarcık Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "15 Temmuz Şehitleri Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Hisarcık Şehit Yüksel Arık Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Hisarcık Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Kutluhallar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Kutluhallar Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Güldüren İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Şehit Fatih Seven Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Şehit Mehmet Ali İnal İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Seydi Resul İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "HİSARCIK",
+        "ad": "Şehit Fatih Seven İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Çinigaz Doğalgaz Sevin Akdoğan İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "80. Yıl Özel İdare İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Mimar Sinan Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Albay Demet İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ticaret ve Sanayi Odası Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Prof. Dr. Nurettin Uzunoğlu Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kadir Adlım Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Tepeköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Çinigar Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Evliya Çelebi İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif İnan Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Fatih Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Hayme Ana Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "HEDİYE GÜRAL ANAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "İsmet İnönü Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kılıçarslan Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Devlet Hatun Kız Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Akşemsettin Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Ahmet Yakupoğlu Güzel Sanatlar Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Necip Fazıl Kısakürek Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Nafi Güral Fen Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Aysel-Selahattin Erkasap Sosyal Bilimler Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Lala Hüseyin Paşa İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Linyit İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Çini İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Hekim Sinan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Saka İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Spor Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Seyitömer Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Germiyan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ümran Aygen İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Zafertepe Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Vakıfbank Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yavuz Sultan Selim Özel Eğitim Uygulama Merkezi II. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Zübeyde Hanım Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yoncalı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yenidoğan İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "İnköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Adile Zeyyat Şora İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Uzman Çavuş Hasan Kahraman Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "İnköy Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Abdurrahman Paşa İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Çamlıca Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Çamlıca İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yıldırım Beyazıt İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Hüsnü Kişioğlu Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Enne İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yenice İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şule Mete Tetik İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Atakent İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yunus Emre İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ali Güral Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Ticaret ve Sanayi Odası Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yunus Emre Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Sırören İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Adile Zeyyat Şora Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Selman Çelik İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Parmakören İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Toplu Konut İdaresi Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Parmakören Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ağaçköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Köprüören Tek Termik Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Köprüören Şehit Halil Bakırlı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Muhammed YILMAZ İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Dumlupınar Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Teğmen Ahmet Tarım İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ticaret Borsası Bölcek İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ticaret Borsası Bölcek Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Orgeneral Asım Gündüz İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Atakent Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Fuat Paşa Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şeker İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Fethi Güzen İşitme Engelliler İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Fethi Güzen İşitme Engelliler Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Emine Arıoğul İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzi Çakmak İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Çağlayan Irmak İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ağaçköy Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Semih AKYILDIZ İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehitler Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Sevgi Denizi Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Bahattin Çini Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yavuz Sultan Selim Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yavuz Sultan Selim Özel Eğitim Uygulama Merkezi I. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Adnan Menderes Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Fevzi Çakmak Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Sevgi Denizi Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Sırören Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kızılcaören Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yıldız Entegre Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Çinikent Özel Eğitim Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Çinikent Özel Eğitim İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Derviş Paşa Kurtuluş Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Nene Hatun Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Karsak İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Seyitömer Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Seyitömer İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmetcik İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kirazpınar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Perli İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Linyit Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "19 Mayıs Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "MİLLİ EGEMENLİK ORTAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ertuğrul Gazi İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kızılcaören İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Eynegazi İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kırklar Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Vakıfbank İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Ahteri İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Uzman Çavuş Hasan Yaşar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "DOĞALAR İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "AKKENT İMAM-HATİP ORTAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "CAHİT ZARİFOĞLU İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Saka Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "DARICA İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Olgunlaşma Enstitüsü"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Selim Cansız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Prof. Dr. Necmettin Erbakan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Andız İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Borsa İstanbul Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Abdülhamid Han Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Özel Eğitim Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Sevgi Denizi Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Turgut Özal İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "KIZILAY GÜLSÜM GÜRAL ANAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "1453 Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "TOBB Kütahya OSB Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Millî Eğitim Vakfı Halime Erkan İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Halime Erkan Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Dumlupınar Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "30 Ağustos Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şeker Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Emine Arıoğul Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kütahya Akşemsettin Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Akif Ersoy Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yunus Emre Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Evliya Çelebi Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "İsmet İnönü Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Şehit Semih Akyıldız Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Yenidoğan Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Orgeneral Asım Gündüz Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Barbaros Hayreddin Paşa İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "80. Yıl Özel İdare Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Mehmet Çini Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Barbaros Hayreddin Paşa Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Kadir Adlım Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "MERKEZ",
+        "ad": "Nesrin Güral Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Pazarlar Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Pazarlar Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Sofular İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Sofular Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Pazarlar İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Pazarlar Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Pazarlar Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Pazarlar Öğretmenevi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "PAZARLAR İMAM HATİP ORTAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "PAZARLAR",
+        "ad": "Pazarlar Spor Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "Şaphane Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "Karamanca İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "Şaphane Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "Şaphane İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "75. Yıl İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "75. Yıl Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "Şaphane Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "Şaphane Şehit Ömer Halisdemir Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "ŞAPHANE",
+        "ad": "Şaphane Öğretmenevi ve Akşam Sanat okulu Müdürlüğü"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Şehit Ali Yılmaz Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Çitgöl Şehit Uzman Çavuş Adil Oruç Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Dağardı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Dağardı Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Darıcı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Darıcı Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Halil İbrahim Kazcıoğlu Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Şehit Uzman Çavuş Sabit DEMİRTAŞ Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Gülizar Eren Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Kuşu Şehit Er Şenayi Akdağ Çok Programlı Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Nurullah Koyuncuoğlu Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Osmanbey Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Öğretmen Evi ve Akşam Sanat Okulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Fen Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav İbn-i Sina Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Şerife Narin Koyuncuoğlu Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Dört Eylül Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Borsa İstanbul Esenevler İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Cumhuriyet Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "19 Mayıs İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Şehit Emre Üçkan Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Borsa İstanbul Esenevler Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Güney Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Naşa Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Yusuf Koyuncuoğlu İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Akdağ İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav İbrahim Eren İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Beyce Şehit Er Mustafa Nerkis Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Söğüt İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Şenköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Yemişli Şehit Kenan Karabodur Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Çitgöl İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Hisarbey Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Hisarbey Şehit Uğur Sarıkaya İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Yemişli İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Kestel İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Naşa İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Kuşu Nurullah Bayram İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Kuşu Nurullah Bayram Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Akdağ Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Şehit Ahmet TUNÇ İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Beyce İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Özel Eğitim Meslek Okulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Demirci Şehit Hüseyin Cankaya İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Şehit Er Ali Oktaytekin Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Özel Eğitim Uygulama Okulu I. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Osmanbey İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Simav Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Atatürk Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "SİMAV",
+        "ad": "Yusuf Koyuncuoğlu Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Arslanbey İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Bağlık Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Beyköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Fevzipaşa İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Halk Eğitimi Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Hanımçeşme İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Hayme Ana Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "İbrahim Düvenli İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "İstiklal Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Hayme Ana Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Köseler İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Mesleki Eğitim Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Milli Egemenlik İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Nazmi Sarı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Subaşı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Süleyman Yılmaz Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Arslanbey Mesleki ve Teknik Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Atatürk Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı 15 Temmuz Şehitler Fen Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Şehit Halil İbrahim Öztürk İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Borsa İstanbul Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Rehberlik ve Araştırma Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tepecik İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tepecik Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tunçbilek 60. Yıl Işık İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Üçeylül İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Dağçeşme İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Kuruçay Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Şahin İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Ayvalı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tunçbilek Atatürk Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Gürağaç İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Gürağaç Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Ressam Abdullah Taktak Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Şehit Polis Köksal Kaşaltı Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Cumhuriyet İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Cumhuriyet Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Moymul Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Mehmet Can Yazıcı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Mehmet Can Yazıcı Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "75. Yıl Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Beyköy Şehit Hasan Büber Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Atatürk İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Mehmet Tarhan İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Fatih İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Kuruçay İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Çardaklı Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Balıköy Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Çardaklı İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Çobanköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "İbrahim Düvenli Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Balıköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Aliköy İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Derecik İlkokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "HANDE GÜL ANAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "HAMİTABAT İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Balıköy Anadolu Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Balıköy İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "DEMİRBİLEK İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "FEVZİPAŞA ORTAOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "GÖBEL İLKOKULU"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Mülayim Dede Özel Eğitim Uygulama Okulu III. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Şeyh Edebali İmam Hatip Ortaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Devlet Ana Kız Anadolu İmam Hatip Lisesi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Ahmet Uluçay Bilim ve Sanat Merkezi"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "TAVŞANLI ÖZEL EĞİTİM UYGULAMA OKULU I. KADEME"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Özel Eğitim Uygulama Okulu II. Kademe"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Ahmet Uluçay Bilim ve Sanat Merkezi Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Subaşı Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Üçeylül Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Hanımçeşme Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Şehit Halil İbrahim Öztürk Anaokulu"
+    },
+    {
+        "il": "KÜTAHYA",
+        "ilçe": "TAVŞANLI",
+        "ad": "Tavşanlı Öğretmenevi ve Akşam Sanat Okulu"
+    }
+]
