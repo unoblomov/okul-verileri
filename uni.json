@@ -1,0 +1,1802 @@
+[
+    {
+        "ad": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1001",
+        "que": 1,
+        "City": "Bolu",
+        "Type": "Devlet",
+        "Website": "http://www.ibu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/341799.png"
+    },
+    {
+        "ad": "ADIYAMAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1002",
+        "que": 2,
+        "City": "Adıyaman",
+        "Type": "Devlet",
+        "Website": "http://www.adiyaman.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/100259.png"
+    },
+    {
+        "ad": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1003",
+        "que": 3,
+        "City": "Aydın",
+        "Type": "Devlet",
+        "Website": "http://www.adu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/364158.png"
+    },
+    {
+        "ad": "AFYON KOCATEPE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1004",
+        "que": 4,
+        "City": "Afyonkarahisar",
+        "Type": "Devlet",
+        "Website": "http://www.aku.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/100869.png"
+    },
+    {
+        "ad": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1005",
+        "que": 5,
+        "City": "Ağrı",
+        "Type": "Devlet",
+        "Website": "http://www.agri.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/101313.png"
+    },
+    {
+        "ad": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1006",
+        "que": 6,
+        "City": "Kırşehir",
+        "Type": "Devlet",
+        "Website": "https://www.ahievran.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/354265.png"
+    },
+    {
+        "ad": "AKDENİZ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1007",
+        "que": 7,
+        "City": "Antalya",
+        "Type": "Devlet",
+        "Website": "http://www.akdeniz.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/101458.png"
+    },
+    {
+        "ad": "AKSARAY ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1008",
+        "que": 8,
+        "City": "Aksaray",
+        "Type": "Devlet",
+        "Website": "https://www.aksaray.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/102005.png"
+    },
+    {
+        "ad": "AMASYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1009",
+        "que": 9,
+        "City": "Amasya",
+        "Type": "Devlet",
+        "Website": "http://www.amasya.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/102198.png"
+    },
+    {
+        "ad": "ANADOLU ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1010",
+        "que": 10,
+        "City": "Eskişehir",
+        "Type": "Devlet",
+        "Website": "http://www.anadolu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/102261.png"
+    },
+    {
+        "ad": "ANKARA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1011",
+        "que": 11,
+        "City": "Ankara",
+        "Type": "Devlet",
+        "Website": "http://www.ankara.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/102738.png"
+    },
+    {
+        "ad": "ARDAHAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1012",
+        "que": 12,
+        "City": "Ardahan",
+        "Type": "Devlet",
+        "Website": "http://www.ardahan.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/103400.png"
+    },
+    {
+        "ad": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1013",
+        "que": 13,
+        "City": "Artvin",
+        "Type": "Devlet",
+        "Website": "http://www.artvin.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/103443.png"
+    },
+    {
+        "ad": "ATATÜRK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1014",
+        "que": 14,
+        "City": "Erzurum",
+        "Type": "Devlet",
+        "Website": "http://www.atauni.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/103545.png"
+    },
+    {
+        "ad": "BALIKESİR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1015",
+        "que": 15,
+        "City": "Balıkesir",
+        "Type": "Devlet",
+        "Website": "http://www.balikesir.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/104213.png"
+    },
+    {
+        "ad": "BARTIN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1016",
+        "que": 16,
+        "City": "Bartın",
+        "Type": "Devlet",
+        "Website": "http://www.bartin.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/104578.png"
+    },
+    {
+        "ad": "BATMAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1017",
+        "que": 17,
+        "City": "Batman",
+        "Type": "Devlet",
+        "Website": "http://www.batman.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/104803.png"
+    },
+    {
+        "ad": "BAYBURT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1018",
+        "que": 18,
+        "City": "Bayburt",
+        "Type": "Devlet",
+        "Website": "https://bayburt.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/104922.png"
+    },
+    {
+        "ad": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1019",
+        "que": 19,
+        "City": "Bilecik",
+        "Type": "Devlet",
+        "Website": "http://www.bilecik.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/105024.png"
+    },
+    {
+        "ad": "BİNGÖL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1020",
+        "que": 20,
+        "City": "Bingöl",
+        "Type": "Devlet",
+        "Website": "http://www.bingol.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/105196.png"
+    },
+    {
+        "ad": "BİTLİS EREN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1021",
+        "que": 21,
+        "City": "Bitlis",
+        "Type": "Devlet",
+        "Website": "https://www.beu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/105248.png"
+    },
+    {
+        "ad": "BOĞAZİÇİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1022",
+        "que": 22,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.boun.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/105322.png"
+    },
+    {
+        "ad": "YOZGAT BOZOK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1023",
+        "que": 23,
+        "City": "Yozgat",
+        "Type": "Devlet",
+        "Website": "http://www.bozok.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/359730.png"
+    },
+    {
+        "ad": "BURSA TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1024",
+        "que": 24,
+        "City": "Bursa",
+        "Type": "Devlet",
+        "Website": "http://btu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/173494.png"
+    },
+    {
+        "ad": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1025",
+        "que": 25,
+        "City": "Manisa",
+        "Type": "Devlet",
+        "Website": "https://www.cbu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/315839.png"
+    },
+    {
+        "ad": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1026",
+        "que": 26,
+        "City": "Sivas",
+        "Type": "Devlet",
+        "Website": "http://www.cumhuriyet.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/344737.png"
+    },
+    {
+        "ad": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1027",
+        "que": 27,
+        "City": "Çanakkale",
+        "Type": "Devlet",
+        "Website": "https://www.comu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/106545.png"
+    },
+    {
+        "ad": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1028",
+        "que": 28,
+        "City": "Çankırı",
+        "Type": "Devlet",
+        "Website": "https://www.karatekin.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/107056.png"
+    },
+    {
+        "ad": "ÇUKUROVA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1029",
+        "que": 29,
+        "City": "Adana",
+        "Type": "Devlet",
+        "Website": "https://www.cu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/107211.png"
+    },
+    {
+        "ad": "DİCLE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1030",
+        "que": 30,
+        "City": "Diyarbakır",
+        "Type": "Devlet",
+        "Website": "https://www.dicle.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/107723.png"
+    },
+    {
+        "ad": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1031",
+        "que": 31,
+        "City": "İzmir",
+        "Type": "Devlet",
+        "Website": "http://www.deu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/108163.png"
+    },
+    {
+        "ad": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1032",
+        "que": 32,
+        "City": "Kütahya",
+        "Type": "Devlet",
+        "Website": "http://dpu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/351149.png"
+    },
+    {
+        "ad": "DÜZCE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1033",
+        "que": 33,
+        "City": "Düzce",
+        "Type": "Devlet",
+        "Website": "http://www.duzce.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/109110.png"
+    },
+    {
+        "ad": "EGE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1034",
+        "que": 34,
+        "City": "İzmir",
+        "Type": "Devlet",
+        "Website": "http://www.ege.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/109290.png"
+    },
+    {
+        "ad": "ERCİYES ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1035",
+        "que": 35,
+        "City": "Kayseri",
+        "Type": "Devlet",
+        "Website": "http://www.erciyes.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/109868.png"
+    },
+    {
+        "ad": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1036",
+        "que": 36,
+        "City": "Erzincan",
+        "Type": "Devlet",
+        "Website": "http://www.erzincan.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/370189.png"
+    },
+    {
+        "ad": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1037",
+        "que": 37,
+        "City": "Erzurum",
+        "Type": "Devlet",
+        "Website": "http://www.erzurum.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/173495.png"
+    },
+    {
+        "ad": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1038",
+        "que": 38,
+        "City": "Eskişehir",
+        "Type": "Devlet",
+        "Website": "http://www.ogu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/110538.png"
+    },
+    {
+        "ad": "FIRAT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1039",
+        "que": 39,
+        "City": "Elazığ",
+        "Type": "Devlet",
+        "Website": "http://www.firat.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/110987.png"
+    },
+    {
+        "ad": "GALATASARAY ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1040",
+        "que": 40,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.gsu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/111395.png"
+    },
+    {
+        "ad": "GAZİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1041",
+        "que": 41,
+        "City": "Ankara",
+        "Type": "Devlet",
+        "Website": "http://gazi.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/133520.png"
+    },
+    {
+        "ad": "GAZİANTEP ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1042",
+        "que": 42,
+        "City": "Gaziantep",
+        "Type": "Devlet",
+        "Website": "http://www.gantep.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/112080.png"
+    },
+    {
+        "ad": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1043",
+        "que": 43,
+        "City": "Tokat",
+        "Type": "Devlet",
+        "Website": "https://www.gop.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/367245.png"
+    },
+    {
+        "ad": "GEBZE TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1044",
+        "que": 44,
+        "City": "Kocaeli",
+        "Type": "Devlet",
+        "Website": "https://www.gtu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/260621.png"
+    },
+    {
+        "ad": "GİRESUN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1045",
+        "que": 45,
+        "City": "Giresun",
+        "Type": "Devlet",
+        "Website": "http://www.giresun.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/112836.png"
+    },
+    {
+        "ad": "GÜMÜŞHANE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1047",
+        "que": 46,
+        "City": "Gümüşhane",
+        "Type": "Devlet",
+        "Website": "http://www.gumushane.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/113023.png"
+    },
+    {
+        "ad": "HACETTEPE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1048",
+        "que": 47,
+        "City": "Ankara",
+        "Type": "Devlet",
+        "Website": "http://hacettepe.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/113082.png"
+    },
+    {
+        "ad": "HAKKARİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1049",
+        "que": 48,
+        "City": "Hakkari",
+        "Type": "Devlet",
+        "Website": "https://www.hakkari.edu.tr / www.hu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/113681.png"
+    },
+    {
+        "ad": "HARRAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1050",
+        "que": 49,
+        "City": "Şanlıurfa",
+        "Type": "Devlet",
+        "Website": "http://www.harran.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/113746.png"
+    },
+    {
+        "ad": "HİTİT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1051",
+        "que": 50,
+        "City": "Çorum",
+        "Type": "Devlet",
+        "Website": "http://www.hitit.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/114218.png"
+    },
+    {
+        "ad": "IĞDIR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1052",
+        "que": 51,
+        "City": "Iğdır",
+        "Type": "Devlet",
+        "Website": "http://www.igdir.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/114315.png"
+    },
+    {
+        "ad": "İNÖNÜ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1053",
+        "que": 52,
+        "City": "Malatya",
+        "Type": "Devlet",
+        "Website": "http://www.inonu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/114436.png"
+    },
+    {
+        "ad": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1054",
+        "que": 53,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.medeniyet.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/173496.png"
+    },
+    {
+        "ad": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1055",
+        "que": 54,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.itu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/115069.png"
+    },
+    {
+        "ad": "İSTANBUL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1056",
+        "que": 55,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.istanbul.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/115373.png"
+    },
+    {
+        "ad": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1057",
+        "que": 56,
+        "City": "İzmir",
+        "Type": "Devlet",
+        "Website": "http://www.ikc.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/173498.png"
+    },
+    {
+        "ad": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1058",
+        "que": 57,
+        "City": "İzmir",
+        "Type": "Devlet",
+        "Website": "http://www.iyte.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/116207.png"
+    },
+    {
+        "ad": "KAFKAS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1059",
+        "que": 58,
+        "City": "Kars",
+        "Type": "Devlet",
+        "Website": "http://www.kafkas.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/116345.png"
+    },
+    {
+        "ad": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1060",
+        "que": 59,
+        "City": "Kahramanmaraş",
+        "Type": "Devlet",
+        "Website": "https://www.ksu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/116608.png"
+    },
+    {
+        "ad": "KARABÜK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1061",
+        "que": 60,
+        "City": "Karabük",
+        "Type": "Devlet",
+        "Website": "http://www.karabuk.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/116950.png"
+    },
+    {
+        "ad": "KARADENİZ TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1062",
+        "que": 61,
+        "City": "Trabzon",
+        "Type": "Devlet",
+        "Website": "http://www.ktu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/117127.png"
+    },
+    {
+        "ad": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1063",
+        "que": 62,
+        "City": "Karaman",
+        "Type": "Devlet",
+        "Website": "http://www.kmu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/117553.png"
+    },
+    {
+        "ad": "KASTAMONU ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1064",
+        "que": 63,
+        "City": "Kastamonu",
+        "Type": "Devlet",
+        "Website": "http://www.kastamonu.edu.tr/index.php/tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/117673.png"
+    },
+    {
+        "ad": "ABDULLAH GÜL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1065",
+        "que": 64,
+        "City": "Kayseri",
+        "Type": "Devlet",
+        "Website": "http://www.agu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/173499.png"
+    },
+    {
+        "ad": "KIRIKKALE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1066",
+        "que": 65,
+        "City": "Kırıkkale",
+        "Type": "Devlet",
+        "Website": "http://kku.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/117803.png"
+    },
+    {
+        "ad": "KIRKLARELİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1067",
+        "que": 66,
+        "City": "Kırklareli",
+        "Type": "Devlet",
+        "Website": "http://www.klu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/118122.png"
+    },
+    {
+        "ad": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1068",
+        "que": 67,
+        "City": "Kilis",
+        "Type": "Devlet",
+        "Website": "https://www.kilis.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/118186.png"
+    },
+    {
+        "ad": "KOCAELİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1069",
+        "que": 68,
+        "City": "Kocaeli",
+        "Type": "Devlet",
+        "Website": "http://www.kocaeli.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/118239.png"
+    },
+    {
+        "ad": "NECMETTİN ERBAKAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1070",
+        "que": 69,
+        "City": "Konya",
+        "Type": "Devlet",
+        "Website": "http://www.erbakan.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/173500.png"
+    },
+    {
+        "ad": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1071",
+        "que": 70,
+        "City": "Mardin",
+        "Type": "Devlet",
+        "Website": "http://www.artuklu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/118994.png"
+    },
+    {
+        "ad": "MARMARA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1072",
+        "que": 71,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.marmara.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/119094.png"
+    },
+    {
+        "ad": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1073",
+        "que": 72,
+        "City": "Burdur",
+        "Type": "Devlet",
+        "Website": "http://www.mehmetakif.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/355074.png"
+    },
+    {
+        "ad": "MERSİN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1074",
+        "que": 73,
+        "City": "Mersin",
+        "Type": "Devlet",
+        "Website": "http://www.mersin.edu.tr/idari/genel-sekreterlik",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/119917.png"
+    },
+    {
+        "ad": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1075",
+        "que": 74,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "https://www.msgsu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/120301.png"
+    },
+    {
+        "ad": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1076",
+        "que": 75,
+        "City": "Muğla",
+        "Type": "Devlet",
+        "Website": "http://www.mu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/120444.png"
+    },
+    {
+        "ad": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1077",
+        "que": 76,
+        "City": "Hatay",
+        "Type": "Devlet",
+        "Website": "http://www.mku.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/367208.png"
+    },
+    {
+        "ad": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1078",
+        "que": 77,
+        "City": "Muş",
+        "Type": "Devlet",
+        "Website": "https://www.alparslan.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/121164.png"
+    },
+    {
+        "ad": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1079",
+        "que": 78,
+        "City": "Tekirdağ",
+        "Type": "Devlet",
+        "Website": "http://www.nku.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/356278.png"
+    },
+    {
+        "ad": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1080",
+        "que": 79,
+        "City": "Nevşehir",
+        "Type": "Devlet",
+        "Website": "http://www.nevsehir.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/246224.png"
+    },
+    {
+        "ad": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1081",
+        "que": 80,
+        "City": "Niğde",
+        "Type": "Devlet",
+        "Website": "http://www.ohu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/306556.png"
+    },
+    {
+        "ad": "ONDOKUZ MAYIS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1082",
+        "que": 81,
+        "City": "Samsun",
+        "Type": "Devlet",
+        "Website": "http://www.omu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/121946.png"
+    },
+    {
+        "ad": "ORDU ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1083",
+        "que": 82,
+        "City": "Ordu",
+        "Type": "Devlet",
+        "Website": "http://www.odu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/122395.png"
+    },
+    {
+        "ad": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1084",
+        "que": 83,
+        "City": "Ankara",
+        "Type": "Devlet",
+        "Website": "http://www.metu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/122571.png"
+    },
+    {
+        "ad": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1085",
+        "que": 84,
+        "City": "Osmaniye",
+        "Type": "Devlet",
+        "Website": "http://www.osmaniye.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/122735.png"
+    },
+    {
+        "ad": "PAMUKKALE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1086",
+        "que": 85,
+        "City": "Denizli",
+        "Type": "Devlet",
+        "Website": "http://www.pau.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/122831.png"
+    },
+    {
+        "ad": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1087",
+        "que": 86,
+        "City": "Rize",
+        "Type": "Devlet",
+        "Website": "https://erdogan.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/123221.png"
+    },
+    {
+        "ad": "SAKARYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1088",
+        "que": 87,
+        "City": "Sakarya",
+        "Type": "Devlet",
+        "Website": "http://www.sakarya.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/123409.png"
+    },
+    {
+        "ad": "SELÇUK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1089",
+        "que": 88,
+        "City": "Konya",
+        "Type": "Devlet",
+        "Website": "http://www.selcuk.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/123902.png"
+    },
+    {
+        "ad": "SİİRT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1090",
+        "que": 89,
+        "City": "Siirt",
+        "Type": "Devlet",
+        "Website": "http://siirt.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/124703.png"
+    },
+    {
+        "ad": "SİNOP ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1091",
+        "que": 90,
+        "City": "Sinop",
+        "Type": "Devlet",
+        "Website": "http://www.sinop.edu.tr ",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/124805.png"
+    },
+    {
+        "ad": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1092",
+        "que": 91,
+        "City": "Isparta",
+        "Type": "Devlet",
+        "Website": "http://www.sdu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/124902.png"
+    },
+    {
+        "ad": "ŞIRNAK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1093",
+        "que": 92,
+        "City": "Şırnak",
+        "Type": "Devlet",
+        "Website": "http://www.sirnak.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/125536.png"
+    },
+    {
+        "ad": "TRAKYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1094",
+        "que": 93,
+        "City": "Edirne",
+        "Type": "Devlet",
+        "Website": "http://www.trakya.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/125577.png"
+    },
+    {
+        "ad": "MUNZUR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1095",
+        "que": 94,
+        "City": "Tunceli",
+        "Type": "Devlet",
+        "Website": "https://www.munzur.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/307919.png"
+    },
+    {
+        "ad": "TÜRK-ALMAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1096",
+        "que": 95,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.tau.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/201784.png"
+    },
+    {
+        "ad": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1097",
+        "que": 96,
+        "City": "Bursa",
+        "Type": "Devlet",
+        "Website": "http://www.uludag.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/362386.png"
+    },
+    {
+        "ad": "UŞAK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1098",
+        "que": 97,
+        "City": "Uşak",
+        "Type": "Devlet",
+        "Website": "http://www.usak.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/126537.png"
+    },
+    {
+        "ad": "YALOVA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1099",
+        "que": 98,
+        "City": "Yalova",
+        "Type": "Devlet",
+        "Website": "http://www.yalova.edu.tr/rektorluk",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/126742.png"
+    },
+    {
+        "ad": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1100",
+        "que": 99,
+        "City": "Ankara",
+        "Type": "Devlet",
+        "Website": "https://www.aybu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/311737.png"
+    },
+    {
+        "ad": "YILDIZ TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1101",
+        "que": 100,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.yildiz.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/126982.png"
+    },
+    {
+        "ad": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1102",
+        "que": 101,
+        "City": "Van",
+        "Type": "Devlet",
+        "Website": "http://www.yyu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/337414.png"
+    },
+    {
+        "ad": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1103",
+        "que": 102,
+        "City": "Zonguldak",
+        "Type": "Devlet",
+        "Website": "https://www.beun.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/365890.png"
+    },
+    {
+        "ad": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1104",
+        "que": 103,
+        "City": "Adana",
+        "Type": "Devlet",
+        "Website": "http://www.atu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/385368.png"
+    },
+    {
+        "ad": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1105",
+        "que": 104,
+        "City": "Antalya",
+        "Type": "Devlet",
+        "Website": "http://www.alanya.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/274883.png"
+    },
+    {
+        "ad": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1106",
+        "que": 105,
+        "City": "Balıkesir",
+        "Type": "Devlet",
+        "Website": "http://www.bandirma.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/274881.png"
+    },
+    {
+        "ad": "İSKENDERUN TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1107",
+        "que": 106,
+        "City": "Hatay",
+        "Type": "Devlet",
+        "Website": "https://www.iste.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/274882.png"
+    },
+    {
+        "ad": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1109",
+        "que": 107,
+        "City": "Ankara",
+        "Type": "Devlet",
+        "Website": "http://www.asbu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/232846.png"
+    },
+    {
+        "ad": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1110",
+        "que": 108,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "http://www.sbu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/270121.png"
+    },
+    {
+        "ad": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1111",
+        "que": 109,
+        "City": "İzmir",
+        "Type": "Devlet",
+        "Website": "http://www.idu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/302685.png"
+    },
+    {
+        "ad": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1112",
+        "que": 110,
+        "City": "Gaziantep",
+        "Type": "Devlet",
+        "Website": "http://www.gibtu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/384577.png"
+    },
+    {
+        "ad": "KONYA TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1113",
+        "que": 111,
+        "City": "Konya",
+        "Type": "Devlet",
+        "Website": "http://www.ktun.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339979.png"
+    },
+    {
+        "ad": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1114",
+        "que": 112,
+        "City": "Kütahya",
+        "Type": "Devlet",
+        "Website": "http://www.ksbu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339982.png"
+    },
+    {
+        "ad": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1115",
+        "que": 113,
+        "City": "Malatya",
+        "Type": "Devlet",
+        "Website": "https://www.ozal.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339983.png"
+    },
+    {
+        "ad": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1116",
+        "que": 114,
+        "City": "İstanbul",
+        "Type": "Devlet",
+        "Website": "https://iuc.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339984.png"
+    },
+    {
+        "ad": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1117",
+        "que": 115,
+        "City": "Ankara",
+        "Type": "Devlet",
+        "Website": "https://hacibayram.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339985.png"
+    },
+    {
+        "ad": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1118",
+        "que": 116,
+        "City": "Sakarya",
+        "Type": "Devlet",
+        "Website": "https://www.subu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339988.png"
+    },
+    {
+        "ad": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1119",
+        "que": 117,
+        "City": "Sivas",
+        "Type": "Devlet",
+        "Website": "http://www.sivas.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339990.png"
+    },
+    {
+        "ad": "TARSUS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1120",
+        "que": 118,
+        "City": "Mersin",
+        "Type": "Devlet",
+        "Website": "https://www.tarsus.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339991.png"
+    },
+    {
+        "ad": "TRABZON ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1121",
+        "que": 119,
+        "City": "Trabzon",
+        "Type": "Devlet",
+        "Website": "https://www.trabzon.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339992.png"
+    },
+    {
+        "ad": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1122",
+        "que": 120,
+        "City": "Kahramanmaraş",
+        "Type": "Devlet",
+        "Website": "https://www.istiklal.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339994.png"
+    },
+    {
+        "ad": "KAYSERİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1123",
+        "que": 121,
+        "City": "Kayseri",
+        "Type": "Devlet",
+        "Website": "http://www.kayseri.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339993.png"
+    },
+    {
+        "ad": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1124",
+        "que": 122,
+        "City": "Eskişehir",
+        "Type": "Devlet",
+        "Website": "https://www.eskisehir.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339997.png"
+    },
+    {
+        "ad": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1125",
+        "que": 123,
+        "City": "Isparta",
+        "Type": "Devlet",
+        "Website": "https://isparta.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339998.png"
+    },
+    {
+        "ad": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1126",
+        "que": 124,
+        "City": "Afyonkarahisar",
+        "Type": "Devlet",
+        "Website": "https://www.afsu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339999.png"
+    },
+    {
+        "ad": "SAMSUN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1127",
+        "que": 125,
+        "City": "Samsun",
+        "Type": "Devlet",
+        "Website": "https://www.samsun.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339989.png"
+    },
+    {
+        "ad": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=1129",
+        "que": 126,
+        "City": "İzmir",
+        "Type": "Devlet",
+        "Website": "https://bakircay.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/302686.png"
+    },
+    {
+        "ad": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2001",
+        "que": 127,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.acibadem.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/326654.png"
+    },
+    {
+        "ad": "ATILIM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2002",
+        "que": 128,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "https://www.atilim.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/104090.png"
+    },
+    {
+        "ad": "AVRASYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2003",
+        "que": 129,
+        "City": "Trabzon",
+        "Type": "Vakıf",
+        "Website": "http://www.avrasya.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/205351.png"
+    },
+    {
+        "ad": "BAHÇEŞEHİR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2005",
+        "que": 130,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.bahcesehir.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/104140.png"
+    },
+    {
+        "ad": "BAŞKENT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2006",
+        "que": 131,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "http://www.baskent.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/104628.png"
+    },
+    {
+        "ad": "BEYKOZ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2008",
+        "que": 132,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.beykoz.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/306383.png"
+    },
+    {
+        "ad": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2009",
+        "que": 133,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.bezmialem.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163894.png"
+    },
+    {
+        "ad": "ÇAĞ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2010",
+        "que": 134,
+        "City": "Mersin",
+        "Type": "Vakıf",
+        "Website": "http://www.cag.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/106499.png"
+    },
+    {
+        "ad": "ÇANKAYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2011",
+        "que": 135,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "http://www.cankaya.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/107012.png"
+    },
+    {
+        "ad": "DOĞUŞ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2012",
+        "que": 136,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.dogus.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/108112.png"
+    },
+    {
+        "ad": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2014",
+        "que": 137,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.fsm.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163897.png"
+    },
+    {
+        "ad": "HASAN KALYONCU ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2016",
+        "que": 138,
+        "City": "Gaziantep",
+        "Type": "Vakıf",
+        "Website": "https://www.hku.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/138586.png"
+    },
+    {
+        "ad": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2017",
+        "que": 139,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.gedik.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/315098.png"
+    },
+    {
+        "ad": "HALİÇ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2019",
+        "que": 140,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.halic.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/113699.png"
+    },
+    {
+        "ad": "IŞIK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2020",
+        "que": 141,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.isikun.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/114385.png"
+    },
+    {
+        "ad": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2021",
+        "que": 142,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "http://www.bilkent.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/105118.png"
+    },
+    {
+        "ad": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2022",
+        "que": 143,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.29mayis.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163900.png"
+    },
+    {
+        "ad": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2023",
+        "que": 144,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.arel.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/114773.png"
+    },
+    {
+        "ad": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2024",
+        "que": 145,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.aydin.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/114827.png"
+    },
+    {
+        "ad": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2025",
+        "que": 146,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.bilgi.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/114907.png"
+    },
+    {
+        "ad": "DEMİROĞLU BİLİM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2026",
+        "que": 147,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.demiroglu.bilim.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/384591.png"
+    },
+    {
+        "ad": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2027",
+        "que": 148,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.gelisim.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/130959.png"
+    },
+    {
+        "ad": "ALTINBAŞ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2029",
+        "que": 149,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.altinbas.edu.tr/tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/326019.png"
+    },
+    {
+        "ad": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2030",
+        "que": 150,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.iku.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/115022.png"
+    },
+    {
+        "ad": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2031",
+        "que": 151,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.medipol.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163888.png"
+    },
+    {
+        "ad": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2032",
+        "que": 152,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.izu.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163898.png"
+    },
+    {
+        "ad": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2034",
+        "que": 153,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.ticaret.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/115335.png"
+    },
+    {
+        "ad": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2035",
+        "que": 154,
+        "City": "İzmir",
+        "Type": "Vakıf",
+        "Website": "https://www.ieu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/116147.png"
+    },
+    {
+        "ad": "KADİR HAS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2037",
+        "que": 155,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.khas.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/116281.png"
+    },
+    {
+        "ad": "KAPADOKYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2038",
+        "que": 156,
+        "City": "Nevşehir",
+        "Type": "Vakıf",
+        "Website": "https://www.kapadokya.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/325756.png"
+    },
+    {
+        "ad": "KOÇ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2039",
+        "que": 157,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.ku.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/118853.png"
+    },
+    {
+        "ad": "KTO KARATAY ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2040",
+        "que": 158,
+        "City": "Konya",
+        "Type": "Vakıf",
+        "Website": "http://www.karatay.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/166433.png"
+    },
+    {
+        "ad": "MALTEPE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2041",
+        "que": 159,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.maltepe.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/118883.png"
+    },
+    {
+        "ad": "NUH NACİ YAZGAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2046",
+        "que": 160,
+        "City": "Kayseri",
+        "Type": "Vakıf",
+        "Website": "http://www.nny.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163891.png"
+    },
+    {
+        "ad": "İSTANBUL OKAN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2047",
+        "que": 161,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.okan.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/360777.png"
+    },
+    {
+        "ad": "ÖZYEĞİN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2048",
+        "que": 162,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.ozyegin.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/122827.png"
+    },
+    {
+        "ad": "PİRİ REİS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2049",
+        "que": 163,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.pirireis.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/136233.png"
+    },
+    {
+        "ad": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2050",
+        "que": 164,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.topkapi.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/440213.png"
+    },
+    {
+        "ad": "SABANCI ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2051",
+        "que": 165,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.sabanciuniv.edu",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/123400.png"
+    },
+    {
+        "ad": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2054",
+        "que": 166,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "https://www.etu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/125552.png"
+    },
+    {
+        "ad": "TOROS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2055",
+        "que": 167,
+        "City": "Mersin",
+        "Type": "Vakıf",
+        "Website": "https://www.toros.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163889.png"
+    },
+    {
+        "ad": "TÜRK HAVA KURUMU ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2057",
+        "que": 168,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "http://www.thk.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/203267.png"
+    },
+    {
+        "ad": "UFUK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2058",
+        "que": 169,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "http://www.ufuk.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/125968.png"
+    },
+    {
+        "ad": "YAŞAR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2060",
+        "que": 170,
+        "City": "İzmir",
+        "Type": "Vakıf",
+        "Website": "http://www.yasar.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/126773.png"
+    },
+    {
+        "ad": "YEDİTEPE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2061",
+        "que": 171,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.yeditepe.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/126818.png"
+    },
+    {
+        "ad": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2062",
+        "que": 172,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.yeniyuzyil.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/315415.png"
+    },
+    {
+        "ad": "ANTALYA BİLİM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2064",
+        "que": 173,
+        "City": "Antalya",
+        "Type": "Vakıf",
+        "Website": "http://www.antalya.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/327022.png"
+    },
+    {
+        "ad": "ÜSKÜDAR ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2065",
+        "que": 174,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.uskudar.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/206795.png"
+    },
+    {
+        "ad": "TED ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2067",
+        "que": 175,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "http://www.tedu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/163892.png"
+    },
+    {
+        "ad": "MEF ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2072",
+        "que": 176,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.mef.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/215913.png"
+    },
+    {
+        "ad": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2075",
+        "que": 177,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.esenyurt.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/241174.png"
+    },
+    {
+        "ad": "BİRUNİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2076",
+        "que": 178,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.biruni.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/251241.png"
+    },
+    {
+        "ad": "SANKO ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2077",
+        "que": 179,
+        "City": "Gaziantep",
+        "Type": "Vakıf",
+        "Website": "http://www.sanko.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/241177.png"
+    },
+    {
+        "ad": "YÜKSEK İHTİSAS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2079",
+        "que": 180,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "https://Yüksek İhtisas Üniversitesi",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/206792.png"
+    },
+    {
+        "ad": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2081",
+        "que": 181,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.rumeli.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/274886.png"
+    },
+    {
+        "ad": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2083",
+        "que": 182,
+        "City": "Konya",
+        "Type": "Vakıf",
+        "Website": "http://www.gidatarim.edu.tr/",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/241176.png"
+    },
+    {
+        "ad": "İSTİNYE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2084",
+        "que": 183,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.istinye.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/274888.png"
+    },
+    {
+        "ad": "İBN HALDUN ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2086",
+        "que": 184,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.ihu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/274887.png"
+    },
+    {
+        "ad": "İSTANBUL KENT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2087",
+        "que": 185,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.kent.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/302687.png"
+    },
+    {
+        "ad": "LOKMAN HEKİM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2088",
+        "que": 186,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "https://www.lokmanhekim.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/332474.png"
+    },
+    {
+        "ad": "FENERBAHÇE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2090",
+        "que": 187,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.fbu.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/310017.png"
+    },
+    {
+        "ad": "OSTİM TEKNİK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2091",
+        "que": 188,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "https://www.ostimteknik.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/324992.png"
+    },
+    {
+        "ad": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2092",
+        "que": 189,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "https://www.ankaramedipol.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/340001.png"
+    },
+    {
+        "ad": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2093",
+        "que": 190,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.atlas.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339995.png"
+    },
+    {
+        "ad": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2094",
+        "que": 191,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.istun.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/410560.png"
+    },
+    {
+        "ad": "ANKARA BİLİM ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2095",
+        "que": 192,
+        "City": "Ankara",
+        "Type": "Vakıf",
+        "Website": "https://www.ankarabilim.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/411762.png"
+    },
+    {
+        "ad": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2096",
+        "que": 193,
+        "City": "İzmir",
+        "Type": "Vakıf",
+        "Website": "https://www.tinaztepe.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/339996.png"
+    },
+    {
+        "ad": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2097",
+        "que": 194,
+        "City": "Kocaeli",
+        "Type": "Vakıf",
+        "Website": "https://www.kocaelisaglik.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/411763.png"
+    },
+    {
+        "ad": "İSTANBUL GALATA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2098",
+        "que": 195,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.galata.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/391144.png"
+    },
+    {
+        "ad": "MUDANYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2100",
+        "que": 196,
+        "City": "Bursa",
+        "Type": "Vakıf",
+        "Website": "https://mudanya.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/442563.png"
+    },
+    {
+        "ad": "ALANYA ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2101",
+        "que": 197,
+        "City": "Antalya",
+        "Type": "Vakıf",
+        "Website": "http://www.alanyauniversity.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/447835.png"
+    },
+    {
+        "ad": "ANTALYA BELEK ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2102",
+        "que": 198,
+        "City": "Antalya",
+        "Type": "Vakıf",
+        "Website": "https://www.belek.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/447662.png"
+    },
+    {
+        "ad": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2103",
+        "que": 199,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "https://www.beykent.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/448766.png"
+    },
+    {
+        "ad": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+        "link": "https://yokatlas.yok.gov.tr/lisans-univ.php?u=2104",
+        "que": 200,
+        "City": "İstanbul",
+        "Type": "Vakıf",
+        "Website": "http://www.nisantasi.edu.tr",
+        "Image Link": "https://yokatlas.yok.gov.tr/assets/img/logo/447904.png"
+    }
+]
